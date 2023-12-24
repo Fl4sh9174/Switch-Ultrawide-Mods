@@ -1,4 +1,4 @@
-Collection of Switch Ultrawide Mods, i did most of them, and when i didnt, the credit goes to the original author, if you are the creator of one of the mods that didnt have the credits, just let me know, i just found some on the web as it is.
+Collection of Switch Ultrawide Mods, i did/updated most of them, and when i didnt, the credit goes to the original author, if you are the creator of one of the mods that didnt have the credits, just let me know, i just found some on the web as it is.
 
 Most of the mods are optimized for 3440x1440, any help or suggestion will be appreciated.
 
