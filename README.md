@@ -1,9 +1,9 @@
-Collection of Switch Ultrawide Mods, i did/updated most of them, and when i didnt, the credit goes to the original author, if you are the creator of one of the mods that didnt have the credits, just let me know, i just found some on the web as it is.
+I have created or updated most of these mods, and when I haven't, credit goes to the original author. If you are the creator of one of the mods that lacks credits, please inform me; I found some on the web as they are.
 
-Most of the mods are optimized for 3440x1440, any help or suggestion will be appreciated.
+Most of the mods are optimized for 3440x1440. Any help or suggestions will be appreciated.
 
-To install the mods, just open the Yuzu, right click on the game you want to install the mod, open mod data location, then just extract the zip there.
+To install the mods, open Yuzu, right-click on the game for which you want to install the mod, open the mod data location, and then extract the zip file there.
 
-If you find any issue with the mods just let me know.
+If you encounter any issues with the mods, please let me know.
 
-Will add the 60 FPS mods when available inside the ultrawide mods zip.
+I will include 30/60/120/144/240 FPS mods when available inside the ultrawide mods zip, same with resolution mods.
