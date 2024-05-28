@@ -30,4 +30,4 @@ Mods are optimized for a resolution of 3440x1440. Any help or suggestions will b
 All the files inside mods folder are necessary, some mods contains cheats file, pchtxt file and V2.pchtxt files, dont delete any of these.
 If you encounter any issues with the mods, please let me know.
 
-All mod are free, but if you want to support me: https://ko-fi.com/Fl4sh9174
+All mods are free, but if you want to support me: https://ko-fi.com/Fl4sh9174
