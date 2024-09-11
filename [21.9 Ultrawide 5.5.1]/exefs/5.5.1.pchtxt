@@ -1,0 +1,17 @@
+@nsobid-03DCAD95E1AC643072F3A684F6740C85
+
+# Splatoon 2 [01003BC0000A0000] v5.5.1 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Sets aspect to 21:9 
+
+@enabled
+019EDCB0 0090201E
+@stop
+
+@theboy181
+https://linktr.ee/theboy181
+
+Commissioned by: 𝗦𝗜𝗟𝗘𝗡𝗧#4712
