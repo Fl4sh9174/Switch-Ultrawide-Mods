@@ -1,6 +1,6 @@
 To install the mods:
 
-On Yuzu:
+On Yuzu/Sudachi/Citron:
 
 Right-click on the game for which you want to install the mod.
 Open the mod data location.
