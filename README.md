@@ -1,3 +1,10 @@
+Inside the .zip files, you'll find:
+
+- Ultrawide mods (adjusted HUD when possible)
+- FPS mods (60FPS, 120FPS, 240FPS, etc., depending on the game)
+- Resolution mods, up to 8K+
+- And much more!
+
 To install the mods:
 
 On Yuzu/Sudachi/Citron:
@@ -16,14 +23,6 @@ After extracting the mods, you can select which mod you want to enable or disabl
 
 On Switch you can convert the files to IPS when necessary.
 
-FPS Mods:
-
-Located inside the ultrawide folders.
-I will always try to add 120 FPS or more when possible.
-
-Resolution Mods:
-
-Located inside the ultrawide folders.
 I will always try to add up to 4K/8K resolution when possible.
 Mods are optimized for a resolution of 3440x1440. Any help or suggestions will be appreciated.
 
