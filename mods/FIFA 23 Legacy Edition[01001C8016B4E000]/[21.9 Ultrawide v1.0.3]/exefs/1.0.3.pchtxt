@@ -1,0 +1,17 @@
+@nsobid-4B713267A882DA35B4789A5E45823AC4
+
+# FIFA 23 Legacy Edition [01001C8016B4E000][USA] v1.0.3 - uw
+
+@flag print_values
+@flag offset_shift 0x100
+
+// uw
+
+@enabled
+00fe1280 DE719C52
+00fe1288 1E03A872
+00fe128c C003271E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

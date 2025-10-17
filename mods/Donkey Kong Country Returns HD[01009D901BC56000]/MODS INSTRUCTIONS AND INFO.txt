@@ -1,0 +1,7 @@
+- For 4K+ resolution mods, use the extended memory layout. 6GB DRAM is recommended to avoid crashes when dying or loading.
+
+- 120 FPS works fine, but sometimes inputs can become erratic.
+
+"240FPS MOD REMOVED DUE TO ISSUES"
+
+https://ko-fi.com/fl4sh9174

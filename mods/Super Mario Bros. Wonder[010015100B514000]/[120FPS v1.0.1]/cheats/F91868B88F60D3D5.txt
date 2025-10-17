@@ -1,0 +1,21 @@
+[dialogue fix ZL + Dpad Up]
+80002100                 
+04000000 0015f668 1E2E1001
+20000000                  
+
+[dialogue fix original value ZL + Dpad Down]
+80008100                      
+04000000 0015f668 52800068
+20000000                     
+
+[cutscene fix ZL + Dpad Right]
+80004100                  
+04000000 000ed5dc 1E2E1000
+20000000                  
+
+[cutscene fix original value ZL + Dpad Left]
+80001100                      
+04000000 000ed5dc BD400140    
+20000000
+
+[Made by Fl4sh_]

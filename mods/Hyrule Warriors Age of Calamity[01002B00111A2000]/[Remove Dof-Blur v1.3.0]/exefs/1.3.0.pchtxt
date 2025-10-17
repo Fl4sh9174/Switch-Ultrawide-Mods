@@ -1,0 +1,16 @@
+@nsobid-C3CF52BF2B05D7310884971B50BCCCB8974577BC
+
+# Hyrule Warriors Age of Calamity [01002B00111A2000] 1.3.0 - Disable dof/blur
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Remove dof and blur effect
+
+@enabled
+01602638 9F5F00B9 // str        wzr, [x28, #0x5c]     // Remove dof/blur
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

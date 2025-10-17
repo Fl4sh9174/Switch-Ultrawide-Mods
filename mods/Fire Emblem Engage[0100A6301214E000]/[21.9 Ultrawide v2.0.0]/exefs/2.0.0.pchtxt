@@ -1,0 +1,18 @@
+@nsobid-8C08B9719E085F91847B5E0F935D9488
+
+# Fire Emblem Engage [0100A6301214E000][USA] v2.0.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Ultrawide optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+009241a4 DE719C52
+009241a8 1E03A872
+009241ac C003271E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

@@ -1,0 +1,16 @@
+@nsobid-CFF74470477C5FC65BB2538FD4A72441E613B40C
+
+# Xenoblade Chronicles X Definitive Edition [0100453019AA8000] v1.0.1 - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled
+00197b40 0B008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

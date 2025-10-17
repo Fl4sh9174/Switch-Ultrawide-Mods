@@ -1,0 +1,19 @@
+@nsobid-14C878ECCA9D7CB5B57E9B492B1BDB92
+
+# Demon Slayer - Kimetsu no Yaiba - The Hinokami Chronicles [010007500F27C000] v1.5.3 - 4K
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 3840x2160
+// Enable the 8GB Dram Memory Layout on Emulator to avoid crash or black screen
+
+@enabled
+07e32d68 33338142 // 3840x2160
+@stop
+
+@Fl4sh_#9174
+
+07e32d68 cdccb642 // 1920x1080
+07e32d68 33339e42 // 2560x1440
+07e32d68 33338142 // 3840x2160

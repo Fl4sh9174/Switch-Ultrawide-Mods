@@ -1,0 +1,16 @@
+@nsobid-A3B75BCD3311385AEED67FBEEB79CBB7BF02F471
+
+# Pokémon Sword [0100ABF008968000] v1.3.2 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+018A2C88 21008052
+0203eeb8 2b50fe00
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

@@ -1,0 +1,42 @@
+@nsobid-FB321C86B35AA9755D6E42BAA5E5D540ED817C2C
+
+# Super Mario Party [010036B0034E4000] v1.1.0 - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled
+00a420cc 3D119152 // mov w29, #0x8889
+00a420d0 1D81A772 // movk w29, #0x3c08, lsl #16
+00a420d4 A103271E // fmov s1, w29
+00a420d8 611E00BD // str s1, [x19, #0x1c]
+00a420dc 1F2003D5 // nop 
+00a420e0 cdffff17 // b #0xffffffffffffff48
+005f4ea0 89540094 // bl #0x1523c
+005f5148 df530094 // bl #0x14f98
+005f5a38 a3510094 // bl #0x146ac
+005f5a38 a3510094 // bl #0x146b0
+005f6050 1d500094 // bl #0x1409c
+005f7a48 9f490094 // bl #0x126a8
+005fb354 5c3b0094 // bl #0xeda0
+005fb35c 5a3b0094 // bl #0xed9c
+005fb388 4f3b0094 // bl #0xed74
+005fb3d4 3c3b0094 // bl #0xed2c
+005fb854 1c3a0094 // bl #0xe8b0
+00600cd4 fc240094 // bl #0x9434
+00601344 60230094 // bl #0x8dc8
+00a3e820 0181A752 // mov w1, #0x3c080000
+00a3e824 2000271E // fmov s0, w1
+00a3e828 002800bd // str s0, [x0, #0x28]
+00a3e82c c0035fd6 // ret 
+013cbbe8 8888083c // 0.08333333 ms
+0060a0c4 086E00B0 // adrp x8, #0xdc1000 
+0060a0c8 00E94BBD // ldr s0, [x8, #0xbe8] 
+0060a0cc C0035FD6 // ret
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

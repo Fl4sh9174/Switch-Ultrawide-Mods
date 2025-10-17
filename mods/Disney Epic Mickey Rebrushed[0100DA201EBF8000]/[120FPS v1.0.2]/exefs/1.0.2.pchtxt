@@ -1,0 +1,18 @@
+@nsobid-21F90AA03BED43F0EEC86613839C489200000000
+
+# Disney Epic Mickey Rebrushed v1.0.0[0100DA201EBF8000] 1.0.2 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+0507fafe 1F2003D5
+0192e4e8 7F0A00F9
+00f69ff8 E8031F2A
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

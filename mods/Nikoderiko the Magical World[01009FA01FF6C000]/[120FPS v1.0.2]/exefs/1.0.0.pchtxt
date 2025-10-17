@@ -1,0 +1,19 @@
+@nsobid-EBDE239CB7780F58266AB355AC157D3100000000
+
+# Nikoderiko the Magical World [01009FA01FF6C000] v1.0.0 - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled
+02e3e8f4 E803271E
+04960988 1F2003D5
+0481d768 1F2003D5
+048a71ea 1F2003D5
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

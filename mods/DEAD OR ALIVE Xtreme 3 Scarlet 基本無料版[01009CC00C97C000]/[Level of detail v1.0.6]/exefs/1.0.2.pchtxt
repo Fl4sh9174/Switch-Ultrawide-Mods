@@ -1,0 +1,16 @@
+@nsobid-71102550C57D57DB950D16F3EB5AF72E
+
+# DEAD OR ALIVE Xtreme 3 Scarlet 基本無料版[01009CC00C97C000] [JPN] 1.0.6 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Level of detail
+
+@enabled
+004ab818 00D0351E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

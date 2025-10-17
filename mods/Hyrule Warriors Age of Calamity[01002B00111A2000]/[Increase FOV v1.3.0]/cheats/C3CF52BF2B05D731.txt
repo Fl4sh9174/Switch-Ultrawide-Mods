@@ -1,0 +1,9 @@
+[Increase FOV ZL + Dpad Right]
+80004100                 
+04000000 01f05174 44cf8000
+20000000                  
+
+[Decrease FOV ZL + Dpad Left]
+80001100                      
+04000000 01f05174 444f8000
+20000000 

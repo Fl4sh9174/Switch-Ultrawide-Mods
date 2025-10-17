@@ -1,0 +1,15 @@
+@nsobid-FCF93A41B08C5193A1410D262602DC621617C56F
+
+# SUPER MARIO ODYSSEY [0100000000010000] v1.3.0 - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled
+00026dc0 08008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

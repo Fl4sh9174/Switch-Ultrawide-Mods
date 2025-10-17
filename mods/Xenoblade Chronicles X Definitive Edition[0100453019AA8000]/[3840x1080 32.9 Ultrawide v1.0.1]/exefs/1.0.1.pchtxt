@@ -1,0 +1,22 @@
+@nsobid-3F2425864CF226844511065F77AA3E36FB5FC33F
+
+# Xenoblade Chronicles X Definitive Edition [0100453019AA8000] v1.0.1 - 32:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 32:9 Ultrawide
+// 3840x1080 Docked 2560x720 Handheld
+// Use stretch to window option
+
+@enabled
+0180d95c 000f0000
+009dcaec 14A08052
+009dcb00 155A8052
+0180d964 000a0000
+0068e474 08E081D2
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

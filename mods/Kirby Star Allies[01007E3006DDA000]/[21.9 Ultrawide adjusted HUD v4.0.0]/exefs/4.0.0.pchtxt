@@ -1,0 +1,18 @@
+@nsobid-D55608916FA56C184F2A8FE80DA0427C
+
+# Kirby Star Allies [01007e3006dda000] 4.0.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect ratio optimized for 3440x1440
+// Use Stretch to window option
+
+@enabled
+003b5c8c 8ee31840 // AR Stages
+0006a43c 884281D2 // AR Overworld/HUD/UI
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

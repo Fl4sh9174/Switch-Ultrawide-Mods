@@ -1,0 +1,17 @@
+@nsobid-3053B22935E32DDF15EF81997603E5C267534A90
+
+# The Legend of Zelda Echoes of Wisdom [01008CF01BAAC800] 1.0.x - Stabilize FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Stabilize FPS normal version
+
+@enabled
+004402e0 28008052
+004407b0 2B008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

@@ -1,0 +1,19 @@
+@nsobid-D467F5AD367BBEE88C51F8C468143CF23486A44B
+
+# Pikmin 3 Deluxe [0100F4C009322800] 1.1.1 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+010e6e20 030AB0EE
+010e6e48 032AB0EE
+010e6f8c 033AB0EE
+00dbb650 030AB0EE
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

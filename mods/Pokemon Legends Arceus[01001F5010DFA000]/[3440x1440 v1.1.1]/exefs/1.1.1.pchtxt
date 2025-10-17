@@ -1,0 +1,28 @@
+@nsobid-AEE8F150DDA1B5A838806E1A5EA6827AD9F3C51E
+
+# Pokémon Legends: Arceus [01001F5010DFA000] v1.1.1 - 3440x1440 Docked 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 3440x1440 Docked
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use stretch to window option
+// Adjusted HUD/UI
+
+@enabled
+029f0650 08AE8152 // mov w8, #0xd70
+029f0654 09B48052 // mov w9, #0x5a0
+029f0410 08AE8152 // mov w8, #0xd70
+029f0414 09B48052 // mov w9, #0x5a0
+02b9a5fc 08AE8152 // mov w8, #0xd70
+02b9a604 08B48052 // mov w8, #0x5a0
+0277bd44 09AE8152 // mov w9, #0xd70
+0277bd50 08B48052 // mov w8, #0x5a0
+029e99e8 08AEC1F2 // movk x8, #0xd70, lsl #32
+029e99f4 08B4C0F2 // movk x8, #0x5a0, lsl #32
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

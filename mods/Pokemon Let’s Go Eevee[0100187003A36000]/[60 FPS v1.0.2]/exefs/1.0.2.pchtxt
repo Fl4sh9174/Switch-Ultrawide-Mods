@@ -1,0 +1,15 @@
+@nsobid-5831EC64D6B696FD69E69505821B97B1
+        
+# Pokemon Let's Go Eevee [0100187003A36000] v1.0.2 - 60 FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60 FPS Normal Speed
+
+@enabled
+005e78b8 0A000014
+00f7eec0 2b50fe00
+@stop
+
+@Fl4sh_#9174

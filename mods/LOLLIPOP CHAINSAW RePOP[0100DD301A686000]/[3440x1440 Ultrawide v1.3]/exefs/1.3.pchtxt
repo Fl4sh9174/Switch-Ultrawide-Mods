@@ -1,0 +1,21 @@
+@nsobid-2727A7B623D823173924E69CDBB2A1DF
+
+# LOLLIPOP CHAINSAW RePOP [0100DD301A686000][USA] 1.3 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect ratio optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+0212AAF0 1B55A852 // fov
+0212AB64 6003271E // fov
+02CA37F8 DB719C52 // blackbars
+02CA37FC 1B03A872 // blackbars
+02CA380C 6003271E // blackbars
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

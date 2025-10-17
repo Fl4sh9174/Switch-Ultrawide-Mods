@@ -1,0 +1,18 @@
+@nsobid-709BFD66115298640155FCC4979DBA151C7CC79A
+
+# Pokémon Violet [0100A3D008C5C000] v4.0.0 - Improved Quality
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Improved graphics quality
+
+@enabled
+00C07DC4 00103E1E
+007f1a6c 00103E1E
+00c4d864 FF1B00F9 // Remove DofBlur Effect
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

@@ -1,0 +1,16 @@
+@nsobid-CB97F4585D9B75C57070A9D15F38D564
+
+# Prince of Persia The Lost Crown [0100210019428000][USA] v1.3.1 - Improved LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Improved Level of Detail
+
+@enabled
+00FFF1D0 00D0351E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

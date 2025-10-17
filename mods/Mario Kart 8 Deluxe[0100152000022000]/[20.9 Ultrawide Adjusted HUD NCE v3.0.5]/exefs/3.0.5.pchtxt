@@ -1,0 +1,24 @@
+@nsobid-FE941ED5BA14BE5D505698DA1BBF4FE7
+
+# Mario Kart 8 Deluxe [0100152000022000] v3.0.5 - 20:9 Adjusted HUD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 2400x1080
+// Use stretch to window option
+// Working in all modes, adjusted hud version has a little issue in title screen
+// The back buffer is empty so its rendering this weird stuff on both sides, but ingame no issues
+
+@enabled
+003cb1ac 9E1C8752
+003cb1b0 DE01A872
+003cb1b4 C003271E
+008C7024 415F90D2
+008C7028 C1E7A7F2
+008C7034 010000F9
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

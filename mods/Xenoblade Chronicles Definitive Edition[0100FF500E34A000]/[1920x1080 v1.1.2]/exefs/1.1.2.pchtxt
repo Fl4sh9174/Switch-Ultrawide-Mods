@@ -1,0 +1,18 @@
+@nsobid-92C78BB3DCBBC3F7A3CAF601D7B85F7A36C20907
+
+# Xenoblade Chronicles Definitive Edition [0100FF500E34A000][USA] v1.1.2 - 1080P
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 1920x1080 Docked
+// HUD is messy
+
+@enabled
+00727c88 15F08052
+00727c8c 16878052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

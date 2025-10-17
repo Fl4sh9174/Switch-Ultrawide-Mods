@@ -1,0 +1,20 @@
+@nsobid-74570FA2709ED714006CD65C42A97DC6FC56FDCE
+
+# Burnout Paradise Remastered [0100DBF01000A000] v1.0.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Ultrawide aspect ratio optimized for 3440x1440
+// Use stretch to window option
+// Default HUD/UI
+
+@enabled
+00d6bd18 8ee31840
+002bf594 1F2003D5
+0015a878 1F2003D5
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

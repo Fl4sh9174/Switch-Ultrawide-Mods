@@ -1,0 +1,16 @@
+@nsobid-799D1061182C1302E08E706B84CE76E55B4EC396
+
+# Need For Speed Hot Pursuit Remastered [010029B0118E8000] v1.0.3 - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled
+002b7de0 001E8052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

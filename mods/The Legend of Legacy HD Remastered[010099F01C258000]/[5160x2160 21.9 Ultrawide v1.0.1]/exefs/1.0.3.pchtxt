@@ -1,0 +1,31 @@
+@nsobid-3E659DB2F020AC3B293122C94AB176E1
+
+# The Legend of Legacy HD Remastered [010099F01C258000][US] v1.0.3 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 5160x2160 Ultrawide
+// Use Stretch to window option
+
+@enabled
+0080366c 09008152 // movz w9, #0x800
+00cfb6bc 018582D2 // movz x1, #0x1428
+00cfb6c0 010EC1F2 // movk x1, #0x870, lsl #32
+00818410 160E8152 // movz w22, #0x870
+0081841c 02858252 // movz w2, #0x1428
+008184b8 01858252 // movz w1, #0x1428
+00818698 01858252 // movz w1, #0x1428
+0081869c 020E8152 // movz w2, #0x870
+00803670 030E8152 // movz w3, #0x870
+0080367c 02858252 // movz w2, #0x1428
+00804a00 08858252 // movz w8, #0x1428
+00804a08 080E8152 // movz w8, #0x870
+008049e8 08858252 // movz w8, #0x1428
+008049ec 080E8152 // movz w8, #0x870
+0077b67c 08858252 // movz w8, #0x1428
+0077b688 080E8152 // movz w8, #0x870
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

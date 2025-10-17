@@ -1,0 +1,225 @@
+{
+  "rtts_file_format_version": 2,
+  "type_id": "bezel_init_loader",
+  "value": {
+    "_version": 1,
+    "CoreSystem": {
+      "type_id": "bezel_core_init",
+      "_version": 1,
+      "BaseWidth": 2580,
+      "BaseHeight": 1080,
+      "FrameRateMode": "FrameRateMode_Fixed",
+      "FixedFrameRate": "FixedFrameRate_Fps30",
+      "VariableFrameRateMin": 10.0,
+      "VariableFrameRateMax": 240.0,
+      "VariableFrameRateMaxLimitEnabled": false,
+      "IsFixUpdateSubStepEnabled": true,
+      "FixUpdateSubStepFps": 60.0,
+      "DefaultCulture": "jaJP",
+      "Culture": "",
+      "IsSocketAutoInitializeEnabled": true
+    },
+    "Modules": [
+      {
+        "type_id": "bezel_hid_init",
+        "_version": 1,
+        "MinPlayer": 1,
+        "MaxPlayer": 1,
+        "Style": "GameControllerStyle_FullKey",
+        "IsAutoStartControllerSupportAppletEnabled": true,
+        "IsHandheldEnabledWhenSinglePlayer": true,
+        "IsDebugPadKeyboardEmulationEnabled": false,
+        "DebugPadKeyMap": {
+          "type_id": "bezel_debug_pad_keyboard_map",
+          "_version": 1,
+          "Buttons": {
+            "type_id": "bezel_nn_settings_debug_pad_keyboard_map",
+            "_version": 1,
+            "ButtonA": "HidKeyboardKey_J",
+            "ButtonB": "HidKeyboardKey_K",
+            "ButtonX": "HidKeyboardKey_L",
+            "ButtonY": "HidKeyboardKey_Semicolon",
+            "ButtonL": "HidKeyboardKey_I",
+            "ButtonR": "HidKeyboardKey_O",
+            "ButtonZL": "HidKeyboardKey_U",
+            "ButtonStart": "HidKeyboardKey_Y",
+            "ButtonSelect": "HidKeyboardKey_E",
+            "ButtonLeft": "HidKeyboardKey_C",
+            "ButtonUp": "HidKeyboardKey_F",
+            "ButtonRight": "HidKeyboardKey_B",
+            "ButtonDown": "HidKeyboardKey_V"
+          },
+          "LStickLeft": "HidKeyboardKey_A",
+          "LStickUp": "HidKeyboardKey_W",
+          "LStickRight": "HidKeyboardKey_D",
+          "LStickDown": "HidKeyboardKey_S",
+          "RStickLeft": "HidKeyboardKey_LeftArrow",
+          "RStickUp": "HidKeyboardKey_UpArrow",
+          "RStickRight": "HidKeyboardKey_RightArrow",
+          "RStickDown": "HidKeyboardKey_DownArrow"
+        },
+        "IsUseRecentInputControllerWhenSinglePlayer": false
+      },
+      {
+        "type_id": "bezel_graphics_core_init",
+        "_version": 1,
+        "IsGfxInitializeEnabled": true,
+        "IsGfxDebugModeFull": false,
+        "SamplerDescriptorSlotCount": 2048,
+        "TextureViewDescriptorSlotCount": 9216,
+        "BufferCount": 2,
+        "GpuMemoryPoolConfigs": []
+      },
+      {
+        "type_id": "bezel_render_pipeline_init",
+        "_version": 1,
+        "IsClearColorEnabled": true,
+        "ClearColor": [
+          0.25,
+          0.25,
+          0.25,
+          1.0
+        ],
+        "SwapChainResolutionParams": [],
+        "IsFullscreenMode": false,
+        "PcWindowSizeWidth": 1600,
+        "PcWindowSizeHeight": 900,
+        "NvnQueueCommandMemorySize": 3145728,
+        "NvnQueueControlMemorySize": 262144,
+        "NvnQueueComputeMemorySize": 5242880,
+        "NvnQueueCommandFlushThreshold": 3145728
+      },
+      {
+        "type_id": "bezel_lighting_init",
+        "_version": 1,
+        "MainLightShadowMapMaxResolution": 1024,
+        "ProbeCaptureMaxFaceCountPerFrame": 6,
+        "ProbeCaptureMaxTextureSize": 512
+      },
+      {
+        "type_id": "bezel_model_init",
+        "_version": 1,
+        "LodCategoryList": [],
+        "IsMaterialAnimationTransitionOldFormulaEnabled": false,
+        "IsDevGpuBoundingBoxEnabled": true
+      },
+      {
+        "type_id": "bezel_builtin_renderer_init",
+        "_version": 1,
+        "ResolutionParams": [],
+        "HdrRenderTargetImageFormat": "ImageFormat_R11_G11_B10_Float"
+      },
+      {
+        "type_id": "bezel_particle_fx2_init",
+        "_version": 1,
+        "ParticleFxEmitterCount": 1280,
+        "ParticleFxEmitterSetCount": 384,
+        "ParticleFxResourceCount": 128,
+        "ParticleFxTemporaryBufferSize": 262144,
+        "ParticleFxStripeCount": 200,
+        "ParticleFxSuperStripeCount": 200,
+        "ParticleFxParticleSortBufferCount": 200,
+        "ParticleFxGpuBufferSize": 16777216,
+        "ParticleFxBufferTextureWidth": 800,
+        "ParticleFxBufferTextureHeight": 450,
+        "IsViewerEnabled": true
+      },
+      {
+        "type_id": "bezel_font_init",
+        "_version": 1,
+        "AlternateChar": 0,
+        "IsAsyncRasterizeEnabled": false,
+        "DrawableCharMax": 1024
+      },
+      {
+        "type_id": "bezel_account_init",
+        "_version": 1,
+        "IsStartupUserAccountEnabled": true
+      },
+      {
+        "type_id": "bezel_sprite_init",
+        "_version": 1,
+        "RenderTargetImageFormat": "ImageFormat_R11_G11_B10_Float"
+      },
+      {
+        "type_id": "bezel_audio_init",
+        "_version": 1,
+        "IsAudioFileReadCacheEnabled": true,
+        "AudioHeapSize": 52428800,
+        "AudioFileReadCacheSizePerSound": 131072,
+        "OpusDecoderCount": 2,
+        "OpusHardwareDecoderCount": 2,
+        "VoiceCountMax": 96,
+        "BgmSlotCountMax": 16
+      },
+      {
+        "type_id": "bezel_script_init",
+        "_version": 1,
+        "ScriptDedicatedMemorySize": 8388608
+      },
+      {
+        "type_id": "bezel_physics_init",
+        "_version": 1,
+        "IsCcdEnabled": true
+      },
+      {
+        "type_id": "bezel_fx_trigger_init",
+        "_version": 1,
+        "IsAudioDefaultListenerEnabled": true,
+        "IsParticleFxDefaultListenerEnabled": false,
+        "IsParticleFx2DefaultListenerEnabled": true,
+        "IsVibrationDefaultListenerEnabled": true,
+        "IsSuppressWarningTriggerKeyNotFound": false,
+        "SoundTriggerCount": 64,
+        "ParticleTriggerCount": 256,
+        "VibrationTriggerCount": 16,
+        "FxTriggerPlayerCount": 256,
+        "AnimEventCount": 128,
+        "AnimEventPlayerCount": 64,
+        "AnimEventTriggerCount": 256,
+        "actorCount": 128,
+        "referenceTriggerFileCount": 128,
+        "ActorInstanceCount": 128,
+        "ActorParameterBufferSize": 131072,
+        "userDefinedTriggerCountMax": 128,
+        "userDefinedTriggerTypeCountMax": 1
+      },
+      {
+        "type_id": "bezel_imgui_init",
+        "_version": 1,
+        "IsImGuiBuiltinFontLoadEnabled": true,
+        "IsImGuiFontAutoScaleEnabled": true,
+        "ImguiFontScaleOnHandheldMode": 1.05
+      },
+      {
+        "type_id": "bezel_dev_interface_init",
+        "_version": 1,
+        "IsHookControllerOnDevSystemFocusEnabled": true
+      },
+      {
+        "type_id": "bezel_dev_connector_for_tools_init",
+        "_version": 1,
+        "OwnerToolName": "",
+        "OwnerToolId": "",
+        "PortalPortNameForTest": ""
+      },
+      {
+        "type_id": "bezel_json_init",
+        "_version": 1,
+        "JsonParserMaxArraySize": 16384,
+        "JsonParserMaxMapSize": 512,
+        "JsonParserMaxDepth": 32
+      },
+      {
+        "type_id": "bezel_gui_layout_init",
+        "_version": 1,
+        "LayoutConstantBufSize": 10485760,
+        "FontConstantBufSize": 10485760,
+        "CaptureTextureShareInfoCount": 48,
+        "VectorGraphicsTextureShareInfoCount": 8,
+        "DynamicTextureShareInfoCount": 128,
+        "DynamicTextureShareInfoPartsStackMax": 4
+      }
+    ]
+  }
+}

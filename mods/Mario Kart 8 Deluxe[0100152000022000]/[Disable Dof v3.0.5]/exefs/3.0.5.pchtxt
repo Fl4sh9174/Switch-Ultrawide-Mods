@@ -1,0 +1,16 @@
+@nsobid-FE941ED5BA14BE5D505698DA1BBF4FE7
+
+# Mario Kart 8 Deluxe [0100152000022000] v3.0.5 - No dof
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Removed depth of field
+
+@enabled
+00AC0644 C0035FD6
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

@@ -1,0 +1,1 @@
+Game changed memory layout on 1.0.13 and i cant change ar using pchtxt, ultrawide working only on 1.0.0.

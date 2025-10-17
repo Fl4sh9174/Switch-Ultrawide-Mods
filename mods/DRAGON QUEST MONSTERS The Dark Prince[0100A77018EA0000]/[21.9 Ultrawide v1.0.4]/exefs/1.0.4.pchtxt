@@ -1,0 +1,16 @@
+@nsobid-67C973772FDBDEB1597A767394ADAACB
+
+# DRAGON QUEST MONSTERS: The Dark Prince [0100A77018EA0000] 1.0.4 - 21:9 Ultrawide Mod 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use stretch to window option 
+
+@enabled
+00E55E48 0170201E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

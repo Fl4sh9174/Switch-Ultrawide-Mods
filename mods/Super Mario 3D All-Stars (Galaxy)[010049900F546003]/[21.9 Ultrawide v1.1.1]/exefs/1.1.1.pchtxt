@@ -1,0 +1,18 @@
+@nsobid-1F1CB275438E7B0FC6BB2B3CCC7EDC776A68027F
+
+# Super Mario 3D All-Stars [010049900F546003] v1.1.1 - 21:9 Ultrawide Mod
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+0023edf0 8ee31840 // fix disappearing objects
+0023ed94 8ee31840 // optimized for 3440x1440 (2.38888888)
+@stop
+
+@Fl4sh_#9174
+
+//0023ec10 039AB0EE // vmov.f32 s18, #2.375000e+00 first version, also works

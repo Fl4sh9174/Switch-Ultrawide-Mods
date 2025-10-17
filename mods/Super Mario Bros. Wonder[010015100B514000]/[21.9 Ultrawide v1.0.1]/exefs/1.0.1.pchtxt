@@ -1,0 +1,21 @@
+@nsobid-F91868B88F60D3D59009DB3389FDE314A6A32FCD
+
+# Super Mario Bros. Wonder [010015100B514000] v1.0.1 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use stretch to window option
+// Sunbaked Palace Desert level has issues with this mod, disable the mod or use the fix in this level
+// Or Fix Bowser Jr Fight pressing ZR + Dpad Up before the fight
+// Restore 21:9 Aspect Ratio ZR + Dpad Down after the end of the fight
+
+@enabled
+029B5108 8ee31840
+@stop
+
+@Fl4sh_#9174
+@StevensND
+
+00096f80 00D0351E // color

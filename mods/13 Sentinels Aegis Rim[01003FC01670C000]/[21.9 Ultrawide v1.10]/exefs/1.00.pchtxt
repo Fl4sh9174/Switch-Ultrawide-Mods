@@ -1,0 +1,27 @@
+@nsobid-57212E16CB83BB553B7C08493B9484FB836E56C8
+
+# 13 Sentinels Aegis Rim [01003FC01670C000][USA] v1.00 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Ultrawide optimized for 3440x1440
+// Adjusted UI/HUD
+// Use stretch to window option
+
+@enabled
+0030c8a8 48A4A852
+00308188 1AAE81D2 // internal res
+0030818c 1AB4C0F2 // internal res
+// 000ac948 eee21814 //    b          LAB_71006e5500 // ar width
+// 006e5500 083140bd // Original Instruction
+// 006e5504 89F5A772
+// 006e5508 3E01271E
+// 006e550c 08093E1E
+// 006e5510 0f1de717 //    b          LAB_71000ac94c
+// 000ac960 09F0271E // ar height
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

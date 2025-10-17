@@ -1,0 +1,15 @@
+@nsobid-07650FD5E5E2B82C91CF789148D8AEE3312CC3DE
+
+# WARRIORS OROCHI 4 [0100E8500AD58000] v1.0.13 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+00014db4 15008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

@@ -1,0 +1,16 @@
+@nsobid-C3CF52BF2B05D7310884971B50BCCCB8974577BC
+
+# Hyrule Warriors Age of Calamity [01002B00111A2000] 1.3.0 - 1280x720
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 1280x720 Docked
+
+@enabled
+008d94d0 08A080D2 // width
+008d94d4 085AC0F2 // height
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

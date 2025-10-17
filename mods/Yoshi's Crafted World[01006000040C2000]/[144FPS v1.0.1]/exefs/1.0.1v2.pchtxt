@@ -1,0 +1,15 @@
+@nsobid-AF7348498C7759B0F3F0396A8A36014C2F156BE4
+
+# Yoshi's Crafted World [01006000040C2000] v1.0.1 - 144FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 144FPS in menus and overworld
+
+@enabled
+002c1bac 081E8052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

@@ -1,0 +1,18 @@
+@nsobid-44AE9FD12897C7028BDC393BB0D833D3
+
+# Yoshi's Crafted World [01006000040C2000] v1.0.1 - All Smiley Flowers
+
+@flag print_values
+@flag offset_shift 0x100
+
+// All Smiley Flowers
+
+@enabled
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+
+005bcf74 F37C8052 // change flower number visual only
+005bcf8c A1278052 // change flower number visual only
+006aca64 F37C8052 // change flower number visual only

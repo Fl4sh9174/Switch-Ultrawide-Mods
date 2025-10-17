@@ -1,0 +1,25 @@
+@nsobid-957E1E19958A93F9607E65CB4C387A9F8E9F8565
+
+# Sonic Colors Ultimate [010040E0116B8000] v1.0.9 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 2580x1080
+// Use stretch to window option
+
+@enabled
+000105d8 48A4A8D2
+023770dc 0000803f
+0001050c 00102E1E
+0001042c 6b000014
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+
+000105d8 48A4A8D2
+000105dc 8896E8F2
+0001043c E89AA8D2
+00010440 8886E8F2
+023770dc 0000803f

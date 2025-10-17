@@ -1,0 +1,15 @@
+@nsobid-3644A6760469451CABC99F00C540ACC2A64AEE41
+
+# DRAGON QUEST MONSTERS: The Dark Prince [0100A77018EA0000] - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+004871B0 28008052
+@stop
+
+@StevensND
+https://linktr.ee/stevenssv2

@@ -1,0 +1,15 @@
+@nsobid-38F59CBDA2EB9C44B72F94C4D25935A2
+
+# Pokemon Shining Pearl [010018E011D92000] v1.3.0 - Disable DoF
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Disable DoF
+
+@enabled
+01bb6e08 08103E1E // disable dof
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

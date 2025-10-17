@@ -1,0 +1,15 @@
+@nsobid-3B39E0C06B8841F1BAF0EA4D54286BFE
+
+# Mario + Rabbids Kingdom Battle [010067300059A000][USA] 1.9.589692 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

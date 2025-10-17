@@ -1,0 +1,21 @@
+@nsobid-3F2425864CF226844511065F77AA3E36FB5FC33F
+
+# Xenoblade Chronicles X Definitive Edition [0100453019AA8000] v1.0.1 - 2K
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 2560x1440 Docked
+
+@enabled
+0180d95c 000a0000
+0180d960 a0050000
+009dcaec 14F08052
+009dcb00 15878052
+0068e474 084081D2
+0068e47c 08B4C0F2
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

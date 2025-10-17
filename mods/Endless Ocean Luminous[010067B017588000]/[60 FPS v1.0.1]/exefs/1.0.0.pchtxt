@@ -1,0 +1,18 @@
+@nsobid-A2FA3E8184E6D4C49F56C62E79CB58D7A5BE909E
+
+# Endless Ocean Luminous [010067B017588000] v1.0.0 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+00a36b6c 20119152
+00a36b70 0091A772
+00a36b74 0000271E
+015c140e 33
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

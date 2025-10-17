@@ -1,0 +1,17 @@
+@nsobid-3F2425864CF226844511065F77AA3E36FB5FC33F
+
+# Xenoblade Chronicles X Definitive Edition [0100453019AA8000] v1.0.1 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Improved level of Detail
+
+@enabled
+009680c8 00103E1E
+0096808c 0010261E 
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

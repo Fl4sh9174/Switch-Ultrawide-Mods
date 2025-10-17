@@ -1,0 +1,15 @@
+@nsobid-AD3FDFBD62A5F4B082D385FFE420D4400ABB831D
+
+# Dragon Ball Z Kakarot and A New Power Awakens Set [010051C0134F8000] 1.5.0 - Unlocked FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Unlocked FPS
+
+@enabled
+00400538 0B03174B
+@stop
+
+@Fl4sh#9174
+https://github.com/Fl4sh9174

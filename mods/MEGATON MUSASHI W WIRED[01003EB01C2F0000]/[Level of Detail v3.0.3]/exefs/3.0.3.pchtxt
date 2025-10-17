@@ -1,0 +1,15 @@
+@nsobid-0D28F064B3A5D030ED5BDD6EBAB1AFC5
+
+# MEGATON MUSASHI W: WIRED [01003EB01C2F0000] v3.0.3 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Level of Detail
+
+@enabled
+014d34d4 00103E1E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

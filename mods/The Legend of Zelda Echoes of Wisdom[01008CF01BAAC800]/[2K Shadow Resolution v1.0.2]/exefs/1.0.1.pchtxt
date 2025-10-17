@@ -1,0 +1,22 @@
+@nsobid-09A15C8259828A41B91B036B12F0687973A4627A
+
+# The Legend of Zelda Echoes of Wisdom [01008CF01BAAC800] v1.0.1 - 2K Shadows
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 2048x2048 Shadow resolution
+
+@enabled
+0277C510 00008152
+0277C514 01008152
+0277C518 03008152
+0277C51C 04008152
+0277C6A8 08A0A8D2
+0277C6B4 08A0E8F2
+0277C6AC E90315B2
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

@@ -1,0 +1,19 @@
+@nsobid-2C1B5B88D07D8B612325E87280AB3572
+
+# Prince of Persia The Lost Crown [0100210019428000][USA] v1.3.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+00C800B8 3EC79152
+00C800BC 7EFCA772
+00C800C0 C003271E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

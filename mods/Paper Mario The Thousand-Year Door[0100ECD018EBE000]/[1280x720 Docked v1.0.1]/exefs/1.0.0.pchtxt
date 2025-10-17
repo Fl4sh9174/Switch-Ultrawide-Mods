@@ -1,0 +1,19 @@
+@nsobid-78F37BB55D015BE3B368EC22AF595455F1544DC1
+
+# Paper Mario_ The Thousand-Year Door [0100ECD018EBE000] v1.0.0 - 1280x720
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 1280x720 Docked
+
+@enabled
+0030A010 A81AA852
+0030ECBC 095A8052
+0030ECC0 08A08052
+0030ece8 C0035FD6
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

@@ -1,0 +1,19 @@
+@nsobid-AEE8F150DDA1B5A838806E1A5EA6827AD9F3C51E
+
+# Pokémon Legends: Arceus [01001F5010DFA000] v1.1.1 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+02aa278c 21008052
+0397E8D8 2b50fe00
+029faf90 0891A772
+02af25f8 0891A772
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

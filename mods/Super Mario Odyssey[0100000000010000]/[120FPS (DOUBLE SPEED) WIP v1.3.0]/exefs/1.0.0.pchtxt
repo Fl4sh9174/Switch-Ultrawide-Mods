@@ -1,0 +1,28 @@
+@nsobid-3CA12DFAAF9C82DA064D1698DF79CDA1
+
+# Super Mario Bros. Wonder [010015100B514000] v1.0.1 - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled
+@stop
+
+@Fl4sh_#9174
+
+008B80FC 00102C1E // menu speed
+008797cc 08E0A752 // fog speed
+0043df0c 0010201E // PlayerConst::getAnimFrameRateSpeedMax() const
+0043df14 0010201E // PlayerConst::getAnimFrameRateSpeedMax() const
+0043df04 0010201E // PlayerConst::getAnimFrameRateSpeedMax() const
+0043df4c 0010201E // PlayerConst::getAnimFrameRateSpeedMax() const
+0043defc 0010201E // PlayerConst::getAnimFrameRateSpeedMax() const
+0043df44 0010201E // PlayerConst::getAnimFrameRateSpeedMax() const
+0043df3c 0010201E // PlayerConst::getAnimFrameRateSpeedMax() const
+0043def4 0010201E // PlayerConst::getAnimFrameRateSpeedMax() const
+0043deec 0010201E // PlayerConst::getAnimFrameRateSpeedMax() const
+0043deb4 0010201E // PlayerConst::getAnimFrameRateSpeedMax() const
+0043df84 0010201E // PlayerConst::getAnimFrameRateSpeedMax() const
+0043df7c 0010201E // PlayerConst::getAnimFrameRateSpeedMax() const

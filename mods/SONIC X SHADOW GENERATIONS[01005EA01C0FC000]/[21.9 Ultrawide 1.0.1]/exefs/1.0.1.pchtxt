@@ -1,0 +1,19 @@
+@nsobid-3AEBA262CC1D26D3D54D77D0FD7593590B57BB45
+
+# SONIC X SHADOW GENERATIONS [01005EA01C0FC000] - v.1.0.1 - 21:9 WIP
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Shadow 01005EA01C0FC000
+// 21:9 Aspect ratio optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+014670DC 03102E1E // ar
+014670BC 0070201E // ar
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174s

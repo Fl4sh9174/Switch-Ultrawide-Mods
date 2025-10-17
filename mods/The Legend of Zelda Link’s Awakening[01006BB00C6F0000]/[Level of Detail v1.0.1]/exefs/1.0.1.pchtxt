@@ -1,0 +1,16 @@
+@nsobid-909E904AF78AC1B8DEEFE97AB2CCDB51968F0EC7
+
+Zelda: Link's Awakening [01006BB00C6F0000] 1.0.1 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Improve level of detail
+
+@enabled
+011448a8 00D0351E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

@@ -1,0 +1,17 @@
+@nsobid-C00035707F523521662976DD27AB1D7F
+
+# LOLLIPOP CHAINSAW RePOP [0100DD301A686000][USA] 1.1 - Render Distance
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Improved Render Distance
+
+@enabled
+02540590 06000014 // render distance
+025405A8 498FA852 // render distance
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

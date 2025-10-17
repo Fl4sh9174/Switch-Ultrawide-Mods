@@ -1,0 +1,18 @@
+@nsobid-4628A512B1D93D37EB7984406770F38F9291C09C
+// nsobid found in main @ offset 0x40
+
+# Pokemon sword v1.3.1 - Force Max Resolution
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Makes all areas in the game MAX resolution
+
+@enabled
+00F1BC40 1F2003D5
+00F6AC80 C0035FD6
+@stop
+
+@theboy181
+@ClaudevonRiegan
+@DuIslingr

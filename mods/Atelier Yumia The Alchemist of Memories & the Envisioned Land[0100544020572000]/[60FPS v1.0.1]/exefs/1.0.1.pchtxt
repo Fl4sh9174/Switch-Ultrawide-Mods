@@ -1,0 +1,17 @@
+@nsobid-A947DDE7826A35623BA4062E11C22D36AC071196
+
+# Atelier Yumia The Alchemist of Memories & the Envisioned Land [0100544020572000] v1.0.1 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+0232fbb0 18000014
+0000e068 35008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

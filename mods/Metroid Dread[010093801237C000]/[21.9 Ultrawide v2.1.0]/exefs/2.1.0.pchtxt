@@ -1,0 +1,17 @@
+@nsobid-646761F643AFEBB379EDD5E6A5151AF2CEF93DC1
+
+# Metroid Dread [010093801237C000] v2.1.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+01a1be18 00070000 // Width
+01a1be1c ee020000 // Height
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

@@ -1,0 +1,27 @@
+Dynamic FPS mods will adjust the correct gamespeed based on the current FPS.
+
+The two versions included work very similarly, but some users reported issues with the exlaunch version when playing online,
+so I made another version (ASM) that fix it. (If you still having issues, use the 60FPS static version for online mode).
+
+I tested the ASM patch online mode on Yuzu and its forks and its working fine, also working on Ryujinx/Kenji-NX
+
+- Working on v3.0.1 and 4.0.0
+- Use one FPS mod at a time
+- Fixed Stutter indoors
+- Fixed Stutter while walking or running
+- Fixed windmills animations speed and distance
+- Fixed npcs animations speed
+- Fixed menu speed
+- Fixed battle's animation speed
+- For a better visual experience you can use the [Improved Graphic Quality]
+- If you encounter any issue, let me know
+- Mod is capped at 60FPS to avoid visual issues, unlocking FPS above 60 will speedup the game.
+- Added a function to smooth the FPS
+- Tweaked all the FPS mods to reach better frametimes (less stutter when loading a new area/assets)
+- Switch users should use Exlaunch or 60FPS static version
+
+Pokémon softlocking when evolving isn't related to my mods, its an emulation issue, there are some workarounds floating the web.
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

@@ -1,0 +1,17 @@
+@nsobid-B4F65AE9BECA79FDA5AFBA2CA47B291CF301E9AB
+
+# Splatoon 3 [0100C2500FC20000] v9.0.0 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Level of Detail
+
+@enabled
+00A115C8 E003271E
+04DD789C E003271E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

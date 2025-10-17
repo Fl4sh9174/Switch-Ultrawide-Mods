@@ -1,0 +1,3 @@
+6GB Dram memory Layout on Yuzu
+Alternative Memory Layout Ruijinx
+Running about 10 fps on ryujinx august 2024, on Yuzu performance is normal.

@@ -1,0 +1,15 @@
+@nsobid-891687F016A18F1773D4A88EBF8A973C8E33ECC1
+
+# Super Mario 3D World + Bowser's Fury [010028600EBDA000] v1.1.0 - 60FPS Handheld
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS Handheld
+
+@enabled
+003e85b0 10000014
+@stop
+
+@Craftyawesome
+https://github.com/Craftyawesome

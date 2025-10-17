@@ -1,0 +1,29 @@
+@nsobid-546820C12D88850D83ECC1BF75060F0E
+
+# FANTASY LIFE i The Girl Who Steals Time [0100755017EE0000][US] v1.3.3 - FOV
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Increased fov by 18.75%, you can use with any resolution you want
+// Mod is experimental use at your own risk
+
+@enabled
+044d5eb4 9de3fa14 //    b          LAB_710838ed28 // Fov gameplay
+0838ed28 09008052 // mov  w9, #0                  // Fov gameplay      
+0838ed2c 09F3A772 // movk w9, #0x3f98, lsl #16    // Fov gameplay
+0838ed30 2001271E // fmov s0, w9                  // Fov gameplay
+0838ed34 0809201E // fmul s8,s8,s0                // Fov gameplay
+0838ed38 688e03bd // str  s8,[x19, #0x38c]        // Fov gameplay
+0838ed3c 5f1c0517 //    b          LAB_71044d5eb8 // Fov gameplay
+02af6dc4 df5f6215 //    b          LAB_710838ed40 // Fov Cutscenes
+0838ed40 02D02E1E // fmov s2, #1.37500000         // Fov Cutscenes
+0838ed44 4204044E // dup  v2.4s, v2.s[0]          // Fov Cutscenes
+0838ed48 21DC226E // fmul v1.4s, v1.4s, v2.4s     // Fov Cutscenes
+0838ed4c 01E4843D // str  q1, [x0, #0x1390]       // Fov Cutscenes
+0838ed50 1ea09d16 //    b          LAB_7102af6dc8 // Fov Cutscenes
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

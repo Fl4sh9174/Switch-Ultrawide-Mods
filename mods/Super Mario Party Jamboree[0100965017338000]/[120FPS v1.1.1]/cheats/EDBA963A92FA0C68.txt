@@ -1,0 +1,13 @@
+[ZL+Dpad Up - 120FPS movespeed Fix for Bowser Kaboom Squad mode v1.1.1]
+80002100
+04000000 0000A0C8 1E2C1000
+04000000 0000A108 1E2C1000
+20000000
+
+[ZL+Dpad Down - 120FPS movespeed Fix for Koopathlon mode v1.1.1 (Original Values restored)]
+80008100
+04000000 0000A0C8 1E2E1000
+04000000 0000A108 1E2E1000
+20000000
+
+[Made By Fl4sh_9174]

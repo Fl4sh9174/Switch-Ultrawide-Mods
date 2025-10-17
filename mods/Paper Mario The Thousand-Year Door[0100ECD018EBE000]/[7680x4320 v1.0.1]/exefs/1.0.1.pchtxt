@@ -1,0 +1,45 @@
+@nsobid-0EFFE4AF1DEC3A7966B934D4A7C3D2BF566A9C62
+
+# Paper Mario_ The Thousand-Year Door [0100ECD018EBE000] v1.0.1 - 8k
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 8k Docked 1280x720 Handheld
+// Use the extended memory layout and the lighting fix
+
+@enabled
+0030A220 0828A852 // movz w8, #0x4140, lsl #16
+0030F044 091C8252 // movz w9, #0x10e0
+0030F048 08C08352 // movz w8, #0x1e00
+0030EE84 09C08352 // movz w9, #0x1e00
+0030EE90 0A1C8252 // movz w10, #0x10e0
+0030EF80 09C08352 // movz w9, #0x1e00
+0030EF8C 0A1C8252 // movz w10, #0x10e0
+0030ED98 09A08052 // movz w9, #0x500
+0030EDA4 0A5A8052 // movz w10, #0x2d0
+0030EFFC 09A08052 // movz w9, #0x500
+0030F008 0A5A8052 // movz w10, #0x2d0
+0030E4AC 021C8252 // movz w2, #0x10e0
+0030E4B0 01C08352 // movz w1, #0x1e00
+0030E768 041C8252 // movz w4, #0x10e0
+0030E774 03C08352 // movz w3, #0x1e00
+00364A54 08C08352 // movz w8, #0x1e00
+00364A5C 0A1C8252 // movz w10, #0x10e0
+0030FC20 09C08352 // movz w9, #0x1e00
+0030FC28 0A1C8252 // movz w10, #0x10e0
+0030AA7C 08C083D2 // movz x8, #0x1e00
+0030AA88 081CC2F2 // movk x8, #0x10e0, lsl #32
+0030A24C 081C8252 // movz w8, #0x10e0
+0030A25C 09C0C3F2 // movk x9, #0x1e00, lsl #32
+0030FC1C 0BBEA852 // movz w11, #0x45f0, lsl #16
+0030FC2C EBB0A852 // movz w11, #0x4587, lsl #16
+00331558 1F2003D5 // nop 
+0033155C 08C08372 // movk w8, #0x1e00
+003315A8 1F2003D5 // nop 
+003315AC 081C8272 // movk w8, #0x10e0
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

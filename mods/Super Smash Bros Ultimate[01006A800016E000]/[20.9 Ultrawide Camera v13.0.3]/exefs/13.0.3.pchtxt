@@ -1,0 +1,26 @@
+@nsobid-730C2141EEBF9885E4857E7E50EAE441D46925DF
+
+# Super Smash Bros. Ultimate [01006A800016E000] v13.0.3 - 20:9 Ultrawide Camera
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 20:9 Aspect Ratio optimized for 3440x1440
+// Use stretch to window option
+// Menus, start screen and texts also adjusted to 20:9
+// This mod adjust the camera zoom to 20:9
+
+@enabled
+04471C5C e4380e40 // Adjust UI texts and Menus Aspect Ratio
+035AC00C 0850201E // Fix Disappearing objects on the edge of the screen
+004EE20C 0050201E // Fix the disappearance of the character at the edge of the screen
+03555448 0d263b17 //    b          LAB_710041ec7c
+0041ec7c 891C8752 // 
+0041ec80 C901A872 // 
+0041ec84 2201271E // 
+0041ec88 f1d9c414 //    b          LAB_710355544c
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

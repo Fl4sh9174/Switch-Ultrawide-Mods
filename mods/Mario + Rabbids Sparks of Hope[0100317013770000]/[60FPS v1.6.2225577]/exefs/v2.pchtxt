@@ -1,0 +1,16 @@
+@nsobid-43211771ED39E7FCEF03D88E2709183148A9697C
+
+# Mario + Rabbids Sparks of Hope [0100317013770000][USA] vx.xxxxxxx - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+004871b0 28008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

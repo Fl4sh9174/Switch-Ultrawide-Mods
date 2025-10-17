@@ -1,0 +1,1 @@
+This resolution is good to work with the Gaussian filter.

@@ -1,0 +1,12 @@
+The game doesn't let me adjust the HUD/UI using the resolution. If I do that, the aspect ratio
+will be correct, but the screen will be cropped really badly.
+
+In the Ultrawide mod, the aspect ratio is correct for all parts of the game, including the
+panning camera. The only issue is the characters closer to the UI; they can't be adjusted 
+independently. If I find a solution, I'll update the mod with the fix.
+
+The Ultrawide camera mod adjusts the distance of the camera to show the same image as the 
+Ultrawide mod, but it won't fix the aspect ratio of the game like the Ultrawide mod. However,
+it does fix the characters on the UI.
+
+Both mods can be used together for a wider view, but the issue with the UI remains.

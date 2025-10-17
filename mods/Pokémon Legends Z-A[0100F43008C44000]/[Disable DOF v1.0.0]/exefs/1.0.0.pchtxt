@@ -1,0 +1,21 @@
+@nsobid-7222E13ECF6ADB3249B5DD5C57FA40B102245FCE
+
+# Pokémon Legends: Z-A [0100F43008C44000] v.1.0.0 - Disable DOF
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Disable DOF
+
+@enabled
+03157846 1F2003D5
+02bf44c0 1F2003D5
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

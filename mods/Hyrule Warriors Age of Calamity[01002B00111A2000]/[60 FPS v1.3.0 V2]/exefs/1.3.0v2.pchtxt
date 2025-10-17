@@ -1,0 +1,16 @@
+@nsobid-95832210B36121E88B4F9B7B66239DADE9C82A67
+
+# Hyrule Warriors Age of Calamity [01002B00111A2000] 1.3.0 - Dynamic FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Dynamic FPS
+
+@enabled
+004023d0 28008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

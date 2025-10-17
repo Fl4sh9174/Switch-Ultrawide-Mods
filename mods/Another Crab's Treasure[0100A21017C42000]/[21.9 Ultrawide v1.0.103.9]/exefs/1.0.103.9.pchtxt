@@ -1,0 +1,21 @@
+@nsobid-01CBDFDED43B80F50A3EF2FB9FE3C647
+
+# Another Crab's Treasure [0100A21017C42000] v1.0.103.9 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Ultrawide optimized for 3440x1440
+// Use stretch to window option
+// Works with any resolution, HUD is stretched
+
+@enabled
+0087CBC0 DE719C52
+0087CBC4 1E03A872
+0087CBC8 C003271E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+
+0087ffc0 0190241E // another option to control ar

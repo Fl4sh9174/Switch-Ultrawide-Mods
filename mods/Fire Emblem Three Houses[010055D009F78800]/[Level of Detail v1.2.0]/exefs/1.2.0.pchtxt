@@ -1,0 +1,35 @@
+@nsobid-89048449BA238C8CF565518B83BF02D3
+
+# Fire Emblem Three Houses [010055D009F78800][USA] v1.2.0 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Level of Detail
+
+@enabled
+007d5678 00D0351E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174
+
+004c86c4 E80F18B2 // resolution or viewport
+004c86c8 080EC1F2 // resolution or viewport
+004c8978 E80F18B2 // resolution or viewport
+004c897c 080EC1F2 // resolution or viewport
+
+004c9374 0DE08152 // viewport ingame
+
+009d0b6c 150E8152
+009d0b70 16E08152
+
+0148690c 000f0000
+01486910 70080000
+00cb9f50 000f0000
+00cb9f54 70080000
+004c922c 150E8152 // nvn window set crop
+004c9210 16E08152 // nvn window set crop
+00cb8078 00007045
+00cb7d30 00000745

@@ -1,0 +1,15 @@
+@nsobid-CBD5A9B56EA859BA11CA069B19B666101AE56F5A
+
+# Super Smash Bros. Ultimate [01006A800016E000] v13.0.2 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Improved Level of Detail
+
+@enabled
+03592074 00103E1E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

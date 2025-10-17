@@ -1,0 +1,24 @@
+@nsobid-96109F9C83B26235CF1B39D51FAA984C
+
+# Hollow Knight Silksong [010013C00E930000] v1.0.28497 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Ultrawide optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+011CCB84 08AE8152
+011CCB8C 08B48052
+02BC11C4 C8719C52
+02BC11C8 0803A872
+02BC1F88 C8719C52
+02BC1F8C 0803A872
+02A85B70 01AE8152 
+02A85B74 02B48052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

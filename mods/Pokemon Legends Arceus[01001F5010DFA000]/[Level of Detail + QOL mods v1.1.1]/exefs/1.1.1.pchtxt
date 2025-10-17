@@ -1,0 +1,17 @@
+@nsobid-AEE8F150DDA1B5A838806E1A5EA6827AD9F3C51E
+
+# Pokémon Legends: Arceus [01001F5010DFA000] v1.1.1 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Level of Detail
+
+@enabled
+02a9b670 00D0351E
+02a9b6c4 0010261E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

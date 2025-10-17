@@ -1,0 +1,15 @@
+@nsobid-67C9CA1428222752F951021464A7B3597EB98FEC
+
+# Metroid Prime Remastered [010012101468C000] v1.0.0 - LODBIAS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Improves the overall texture quality
+
+@enabled
+001fc6d4 20008012
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

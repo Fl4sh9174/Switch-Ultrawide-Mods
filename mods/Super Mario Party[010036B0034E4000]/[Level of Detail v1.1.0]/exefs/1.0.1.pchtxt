@@ -1,0 +1,16 @@
+@nsobid-FB321C86B35AA9755D6E42BAA5E5D540ED817C2C
+
+# Super Mario Party [010036B0034E4000] v1.1.0 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Improved Level of Detail
+
+@enabled
+009cfe94 00103E1E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

@@ -1,0 +1,21 @@
+@nsobid-F48BD40D89B529C114F17C7909FE6AA4
+
+# Donkey Kong Country Tropical Freeze [0100C1F0051B6000] 1.0.2 - 4K Docked
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 3840x2160 Docked
+// 2560x1440 Handheld
+
+@enabled
+0001F62C 00E08152
+0001F634 000E8152
+0001F63C 00408152
+0001F644 00B48052
+0001F64C 00408152
+0001F654 00B48052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

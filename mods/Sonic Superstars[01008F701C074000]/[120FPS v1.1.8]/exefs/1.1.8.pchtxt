@@ -1,0 +1,15 @@
+@nsobid-F1BB173FC40702F6F911A18F171C3FE9
+
+# Sonic Superstars [01008F701C074000] v1.1.8 - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled
+01D74FE0 01008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

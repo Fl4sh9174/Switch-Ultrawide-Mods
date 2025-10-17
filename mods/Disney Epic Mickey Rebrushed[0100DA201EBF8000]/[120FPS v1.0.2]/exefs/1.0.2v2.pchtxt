@@ -1,0 +1,17 @@
+@nsobid-A5CB2175CAD2CA2AFDD4C13577DBD079FC193BEC
+
+# Disney Epic Mickey Rebrushed v1.0.0[0100DA201EBF8000] 1.0.2 - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS Yuzu
+// Unlocked FPS Ryujinx
+
+@enabled
+00186780 08008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

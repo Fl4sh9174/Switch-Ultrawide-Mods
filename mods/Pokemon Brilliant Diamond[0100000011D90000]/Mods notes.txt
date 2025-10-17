@@ -1,0 +1,3 @@
+- Resolution mods are working fine, but some HUD elements are in the wrong position, working on a fix.
+- Ultrawide mod is working fine also, but HUD, pokedex and some elements are out of position.
+- FPS mods will speedup some npcs/water/few animations.

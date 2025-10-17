@@ -1,0 +1,9 @@
+[Increase gamespeed HOLD ZL v1.0.0]
+04000000 02f4fbe8 bd42e800
+80000100
+04000000 02f4fbe8 1E249000
+20000000
+
+[Useful for speeding up cutscenes and ship travel]
+[Doesn't work on Ryujinx]
+[Made by Fl4sh]

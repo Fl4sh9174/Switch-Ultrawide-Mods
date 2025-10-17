@@ -1,0 +1,6 @@
+- 21:9 Aspect Ratio optimized for 3440x1440
+- Use stretch to window option
+- Working in all modes, adjusted hud version has a little issue in title screen
+- The back buffer is empty so its rendering this weird stuff on both sides, but ingame no issues
+
+21:9 and 20:9 working on all platforms (Windows, Android NCE, etc)

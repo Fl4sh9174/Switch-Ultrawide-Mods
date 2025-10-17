@@ -1,0 +1,16 @@
+@nsobid-7222E13ECF6ADB3249B5DD5C57FA40B102245FCE
+
+# Pokémon Legends: Z-A [0100F43008C44000] v1.0.0 - 60 FPS Static
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60 FPS Static (If FPS drops below 60, game will slowdown)
+
+@enabled
+019e37a8 14008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

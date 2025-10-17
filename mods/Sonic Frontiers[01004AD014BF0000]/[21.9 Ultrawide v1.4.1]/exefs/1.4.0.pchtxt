@@ -1,0 +1,15 @@
+@nsobid-585BAC5A827ADD87163B06BE8FA72400A8159BF1
+
+# Sonic Frontiers [01004AD014BF0000] 1.4.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio
+// Use strecth to window option
+
+@enabled
+000c9e14 0B70201E
+@stop
+
+@Fl4sh_#9174

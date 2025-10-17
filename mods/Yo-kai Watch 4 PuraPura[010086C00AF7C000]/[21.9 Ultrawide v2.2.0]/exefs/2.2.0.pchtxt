@@ -1,0 +1,16 @@
+@nsobid-C7DAB27F22ACD2EDFA334AEEC30E57867AA60E59
+
+# Yo-kai Watch 4 PuraPura [010086C00AF7C000] 2.2.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Optimized for 3440x1440
+// Use Stretch to Window Option
+
+@enabled
+0097e370 0870201E // aspect ratio
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

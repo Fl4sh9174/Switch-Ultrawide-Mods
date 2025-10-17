@@ -1,0 +1,17 @@
+@nsobid-A3B75BCD3311385AEED67FBEEB79CBB7BF02F471
+// nsobid found in main @ offset 0x40
+
+# pkmS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Wifi Fix
+
+@enabled
+00EF05F4 1F2003D5
+@stop
+
+@theboy181
+@ClaudevonRiegan
+@DuIslingr

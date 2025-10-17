@@ -1,0 +1,18 @@
+@nsobid-59874C9B530095ACE0298B938D8E5EA700000000
+
+# Mario & Luigi Brothership [01006D0017F7A000] v1.0.0 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+055abf24 1F2003D5
+055bd3d4 1F2003D5
+02c27894 E803271E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

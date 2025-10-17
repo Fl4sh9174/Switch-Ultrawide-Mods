@@ -1,0 +1,20 @@
+@nsobid-8618895246B420329B77746B960A66ABCBEDE992
+
+# Princess Peach: Showtime! [01007A3009184000] - 30fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 30fps
+
+@enabled
+0017F530 48008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

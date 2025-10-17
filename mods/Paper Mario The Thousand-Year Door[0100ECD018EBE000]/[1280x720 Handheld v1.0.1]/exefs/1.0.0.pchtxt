@@ -1,0 +1,19 @@
+@nsobid-78F37BB55D015BE3B368EC22AF595455F1544DC1
+
+# Paper Mario_ The Thousand-Year Door [0100ECD018EBE000] v1.0.0 - 720P Handheld
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 1280x720 Handheld
+
+@enabled
+0030eb88 09A08052 // movz w9, #0x500 // 1280x720
+0030eb94 0A5A8052 // movz w10,#0x2d0 // 1280x720
+0030edec 09A08052 // movz w9, #0x500 // 1280x720
+0030edf8 0A5A8052 // movz w10,#0x2d0 // 1280x720
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

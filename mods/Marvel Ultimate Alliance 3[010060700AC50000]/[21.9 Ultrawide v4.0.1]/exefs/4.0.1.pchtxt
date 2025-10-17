@@ -1,0 +1,26 @@
+@nsobid-E853C44FDF18B88F435925BA22EAD11500000000
+
+# Marvel Ultimate Alliance 3 [010060700AC50000] v4.0.1 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect ratio optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+01865ed4 8ee31840
+02161ac0 8ee31840
+02161390 8ee31840
+021603a0 8ee31840
+01a2dc58 8ee31840
+01a2dc54 8ee31840
+01a2dc40 8ee31840
+019f40cc 8ee31840
+019f40c0 8ee31840
+019f3448 8ee31840
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

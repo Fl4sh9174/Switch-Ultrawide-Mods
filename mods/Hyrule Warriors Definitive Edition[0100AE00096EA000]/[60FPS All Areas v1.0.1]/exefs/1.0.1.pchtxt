@@ -1,0 +1,21 @@
+@nsobid-815A2C19D176789688FF33EA875C26C5
+
+# Hyrule Warriors Definitive Edition [0100AE00096EA000][USA] v1.0.1 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Intro, Cutscenes and everything else 60FPS
+
+@enabled
+00459b98 1F2003D5
+00459ba4 1F2003D5
+00459bb0 1F2003D5
+00459bb4 1F2003D5
+00459bbc 1F2003D5
+00459bc4 1F2003D5
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

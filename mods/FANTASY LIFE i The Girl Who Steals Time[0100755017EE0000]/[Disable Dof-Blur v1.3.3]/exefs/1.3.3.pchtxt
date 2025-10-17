@@ -1,0 +1,17 @@
+@nsobid-546820C12D88850D83ECC1BF75060F0E
+
+# FANTASY LIFE i The Girl Who Steals Time [0100755017EE0000][US] v1.3.3 - no Dof
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Disable Depth of field
+
+@enabled
+016D1334 F4031F2A // mov  w20, wzr
+016F0350 E8031F2A // mov  w8, wzr
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

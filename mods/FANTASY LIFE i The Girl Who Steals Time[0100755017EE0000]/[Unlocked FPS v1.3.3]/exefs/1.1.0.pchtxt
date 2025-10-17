@@ -1,0 +1,24 @@
+@nsobid-A697413E1DA7851AC3A8A6FF181ABAB8
+
+# FANTASY LIFE i The Girl Who Steals Time [0100755017EE0000][US] v1.1.0 - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled
+02d9a264 088EA852 // mov  w8,#0x43700000
+02d9a26c 0001271E // fmov s0,w8
+02681f84 A9AA8A52 // mov  w9,#0x5555
+02681f88 A910A872 // movk w9,#0x4085, LSL #16 
+04e28648 E9008052 // mov w9, #7
+04e28650 096EA852 // mov w9, #0x43700000
+04e3dc70 E9008052 // mov w9, #7
+04e3dc78 096EA852 // mov w9, #0x43700000
+000782ac 7F0A00F9 // str xzr,[x19, #0x10]
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

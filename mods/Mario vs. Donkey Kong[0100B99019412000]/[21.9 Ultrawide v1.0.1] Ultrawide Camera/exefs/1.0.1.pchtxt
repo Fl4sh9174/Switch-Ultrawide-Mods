@@ -1,0 +1,22 @@
+@nsobid-43AE51EE9766867DA5F1272CA0D3D8A60AC53296
+
+# Mario vs. Donkey Kong [0100B99019412000] 1.0.1 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+0045fd90 CA719C52
+0045fd94 0A03A872
+00e71c20 1F2003D5
+0003ce68 00902F1E
+016b10d8 1F2003D5
+00e169c8 C8719C52
+00e169cc 0803A872
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

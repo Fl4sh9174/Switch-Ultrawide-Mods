@@ -1,0 +1,24 @@
+@nsobid-1953770037ACC52A4E28BF7AA5968C03
+
+# Fire Emblem Warriors [0100F15003E64000] v1.5.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Ultrawide optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+008d824c 0803A852
+008d8250 C8719C72
+00d157f0 8ee31841
+00b6e290 DE719C52
+00b6e2b0 1E03A872
+00b6e2b4 C403271E
+00b6e2b8 644E01BD
+00b6e2bc 04000014
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

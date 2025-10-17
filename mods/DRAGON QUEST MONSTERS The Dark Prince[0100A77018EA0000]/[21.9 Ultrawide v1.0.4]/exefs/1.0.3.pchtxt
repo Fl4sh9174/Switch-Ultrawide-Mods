@@ -1,0 +1,19 @@
+@nsobid-516C0DC61E7FC25C0EC64BE1DD2D2DAB
+
+# DRAGON QUEST MONSTERS: The Dark Prince [0100A77018EA0000] 1.0.3 - 21:9 Ultrawide Mod 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use strecth to window option 
+
+@enabled
+00e55378 0170201E
+@stop
+
+@Fl4sh_#9174
+
+//Experimental
+//00e55378 0170201E // code that controls ar
+//00E55314 1F2003D5 // change the camera style of the game

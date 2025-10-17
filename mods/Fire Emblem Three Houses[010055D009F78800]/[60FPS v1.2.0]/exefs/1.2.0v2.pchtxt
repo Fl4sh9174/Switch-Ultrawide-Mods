@@ -1,0 +1,16 @@
+@nsobid-B2872A7BCC589969FB7AFB8E372414E4FAC5A750
+
+# Fire Emblem Three Houses [010055D009F78800][USA] v1.2.0 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+00026e70 08008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

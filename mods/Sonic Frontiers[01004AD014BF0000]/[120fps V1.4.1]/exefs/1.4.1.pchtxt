@@ -1,0 +1,17 @@
+@nsobid-D7A05D106FF46FC0C09605C54DC8FBBD169C2A44
+
+# Sonic Frontiers [01004AD014BF0000] - v.1.4.1 - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled 
+000bd850 01008052 // presentinterval
+01635324 04000014 // branch to 7101635338
+01635338 0881A772 // movk w8, #0x3c08, lsl #16
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

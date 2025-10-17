@@ -1,0 +1,22 @@
+@nsobid-5A7A58268E5F214883526141DBE4BF2ED2CCC691
+
+# Super Mario Party Jamboree [0100965017338000] v1.1.0 - 8K
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 7680x4320 Docked
+
+@enabled
+015d2610 e01e0000 // internal resolution
+015d261c e0100000 // internal resolution
+015d29ac 000f0000 // internal resolution
+001db28c 08C083D2 // internal resolution
+001db294 081CC2F2 // internal resolution
+00581f40 081CC2D2 // viewport
+00581f44 09C08352 // viewport
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://ko-fi.com/fl4sh9174

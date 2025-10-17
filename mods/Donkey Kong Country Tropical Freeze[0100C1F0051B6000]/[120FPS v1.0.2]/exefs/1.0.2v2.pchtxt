@@ -1,0 +1,15 @@
+@nsobid-BA520906609C503227871A314A94FB5F6CCBE444
+
+# Donkey Kong Country Tropical Freeze [0100C1F0051B6000] 1.0.2 - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled
+002c17b8 08008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

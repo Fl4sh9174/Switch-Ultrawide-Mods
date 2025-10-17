@@ -1,0 +1,19 @@
+@nsobid-4B632573CA5C160EABB70519FB622718956D70EA
+
+# 13 Sentinels Aegis Rim [01003FC01670C000][USA] v1.00 - 16:10
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 16:10 Ultrawide optimized for 1280x800 (SteamDeck)
+// Use stretch to window option
+
+@enabled
+0030CC08 089BA852
+003084E8 1A9680D2 // internal res
+003084EC 1A64C0F2 // internal res
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174
