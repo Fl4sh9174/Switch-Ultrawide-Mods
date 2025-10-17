@@ -1,0 +1,31 @@
+@nsobid-78F37BB55D015BE3B368EC22AF595455F1544DC1
+
+# Paper Mario_ The Thousand-Year Door [0100ECD018EBE000] v1.0.0 - 1080P/720P
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 1920x1080 Docked 1280x720 Handheld
+
+@enabled
+0030ecbc 09878052 // movz w9, #0x438 // 1920x1080
+0030ecc0 08F08052 // movz w8, #0x780 // 1920x1080
+0030ee34 09878052 // movz w9, #0x438 // 1920x1080
+0030ee38 08F08052 // movz w8, #0x780 // 1920x1080
+0030ec74 09F08052 // movz w9, #0x780 // 1920x1080
+0030ec80 0A878052 // movz w10,#0x438 // 1920x1080
+0030ed70 09F08052 // movz w9, #0x780 // 1920x1080
+0030ed7c 0A878052 // movz w10,#0x438 // 1920x1080
+0030ebd0 095A8052 // movz w9, #0x2d0 // 1280x720
+0030ebd4 08A08052 // movz w8, #0x500 // 1280x720
+0030ee70 095A8052 // movz w9, #0x2d0 // 1280x720
+0030ee74 08A08052 // movz w8, #0x500 // 1280x720
+0030eb88 09A08052 // movz w9, #0x500 // 1280x720
+0030eb94 0A5A8052 // movz w10,#0x2d0 // 1280x720
+0030edec 09A08052 // movz w9, #0x500 // 1280x720
+0030edf8 0A5A8052 // movz w10,#0x2d0 // 1280x720
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

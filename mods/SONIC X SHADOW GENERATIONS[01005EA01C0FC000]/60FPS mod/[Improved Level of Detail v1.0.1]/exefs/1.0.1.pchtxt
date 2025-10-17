@@ -1,0 +1,17 @@
+@nsobid-3AEBA262CC1D26D3D54D77D0FD7593590B57BB45
+
+# SONIC X SHADOW GENERATIONS [01005EA01C0FC000] - v.1.0.1 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Shadow 01005EA01C0FC000
+// Improved level of detail
+
+@enabled
+005493B0 00103E1E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174s

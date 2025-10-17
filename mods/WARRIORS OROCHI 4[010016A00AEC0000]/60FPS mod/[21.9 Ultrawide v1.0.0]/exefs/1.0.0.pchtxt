@@ -1,0 +1,16 @@
+@nsobid-01BE16F71D3ECE72C16524BDE30C4511
+
+# WARRIORS OROCHI 4 [010016A00AEC0000] v1.0.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21.9 Ultrawide optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+0061acf8 0870201E // aspect ratio
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

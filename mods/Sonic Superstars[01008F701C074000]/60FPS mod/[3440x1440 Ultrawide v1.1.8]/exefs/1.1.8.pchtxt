@@ -1,0 +1,27 @@
+@nsobid-F1BB173FC40702F6F911A18F171C3FE9
+
+# Sonic Superstars [01008F701C074000] v1.1.8 - 21:9 Ultrawide
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect ratio optimized for 3440x1440
+// Use stretch to window option
+// Hud/Ui is adjusted
+
+@enabled
+01CC15D4 08AE8152 // mov w8, #0xd70
+01CC15E8 08B48052 // mov w8, #0x5a0
+01D65BCC 03B48052 // mov w3, #0x5a0
+01D65BDC 02AE8152 // mov w2, #0xd70
+01D673EC 02B48052 // mov w2, #0x5a0
+01D673F4 01AE8152 // mov w1, #0xd70
+03AAE074 00AE8152 // mov w0, #0xd70
+03AAE07C 01B48052 // mov w1, #0x5a0
+04092238 08AE81D2 // mov x8, #0xd70
+04092244 08B4C0F2 // movk x8, #0x5a0, lsl #32
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

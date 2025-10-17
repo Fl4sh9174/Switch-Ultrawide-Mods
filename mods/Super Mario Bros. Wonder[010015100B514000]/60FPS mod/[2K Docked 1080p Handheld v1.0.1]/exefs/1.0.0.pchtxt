@@ -1,0 +1,31 @@
+@nsobid-CD6E42AEE7934F4D8393CD43893AE25EDC83D338
+
+# Super Mario Bros. Wonder [010015100B514000] v1.0.0 - 2K - 1080p
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 2K Docked, 1080p Handheld
+
+
+@enabled
+005A49C4 0840C1F2
+005A49D0 08B48052
+0077C93C 0BB48052
+0077C958 0A878052
+@stop
+
+@theboy181
+https://linktr.ee/theboy181
+
+SkyHighBrownie
+SardineCat
+zurce
+ichirus
+RevanIkari
+Superstevemii 
+m1thos2 
+Sage Blade
+Relic
+RevanIkari
+#ichirus

@@ -1,0 +1,16 @@
+@nsobid-03DCAD95E1AC643072F3A684F6740C85
+
+# Splatoon 2 [01003bc0000a0000] v5.5.1 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Level of detail
+
+@enabled
+01a806a8 00103E1E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

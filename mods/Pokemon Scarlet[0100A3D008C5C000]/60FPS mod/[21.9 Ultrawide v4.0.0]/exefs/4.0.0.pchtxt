@@ -1,0 +1,38 @@
+@nsobid-421C5411B487EB4D049DD065FEC9547773E8E598
+
+# Pokémon Scarlet [0100A3D008C5C000] v4.0.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Ultrawide optimized for 3440x1440
+// Adjusted UI/HUD
+// Use stretch to window option
+
+@enabled
+0192bd34 99d4f817 //    b          LAB_7101760f98  
+01760f98 F353BFA9 // stp x19, x20, [sp, #-0x10]!   
+01760f9c 736101d0 //    adrp       x19,0x710438e000
+01760fa0 62E24FBD // ldr       s2,[x19, #0xfe0]    
+01760fa4 63E64FBD // ldr       s3,[x19, #0xfe4]    
+01760fa8 60EA4FBD // ldr       s0,[x19, #0xfe8]    
+01760fac F353C1A8 // ldp x19, x20, [sp], #0x10     
+01760fb0 622b0714 //    b          LAB_710192bd38  
+0438efe0 ca9ab244 // 1428.837158                   
+0438efe4 00008744 // 1080                          
+0438efe8 d6947543 // 245.5813904                   
+0438efec 00000000 //                               
+00cf11e8 73bf2914 //    b          LAB_7101760fb4  
+01760fb4 709241bd //    ldr        s16,[x19, #0x190
+01760fb8 F353BFA9 // stp x19, x20, [sp, #-0x10]!   
+01760fbc 736101d0 //    adrp       x19,0x710438e000
+01760fc0 7EF24FBD // ldr       s30,[x19, #0xff0]   
+01760fc4 100A3E1E // fmul s16, s16, s30            
+01760fc8 F353C1A8 // ldp x19, x20, [sp], #0x10     
+01760fcc 8840d617 //    b          LAB_7100cf11ec  
+0438eff0 0000ac3f // 1.34375f                      
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

@@ -1,0 +1,24 @@
+@nsobid-709BFD66115298640155FCC4979DBA151C7CC79A
+
+# Pokémon Violet [0100A3D008C5C000] v4.0.0 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+02b7a874 21008052
+00b92780 C10A94D2
+00b92784 813FA0F2
+02b7c540 00008052
+0170c408 0A4EA852
+020a8d3c 68F8A872
+03c2fbb0 2b50fe00
+00d9643c C80A94D2
+00d96440 883FA0F2
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

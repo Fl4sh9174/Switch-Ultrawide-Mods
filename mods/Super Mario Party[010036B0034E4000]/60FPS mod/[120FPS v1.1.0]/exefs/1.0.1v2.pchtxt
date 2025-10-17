@@ -1,0 +1,16 @@
+@nsobid-014256A5D58180219805A7D05FBA02E4EEFF0B8D
+
+# Super Mario Party [010036B0034E4000] v1.1.0 - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled
+00401e10 08008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

@@ -1,0 +1,22 @@
+@nsobid-928EFE2954F680557B8B3839481C97DB
+
+# Princess Peach: Showtime! [01007A3009184000] v1.0.0 - Uncap FPS + Cutscenes Fix
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Uncap FPS + Cutscenes Fix. No longer 24fps limit cap.
+
+@enabled
+0895DCDE 1F2003D5
+01E556B4 E8008052
+01E556BC 084EA852
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

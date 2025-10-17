@@ -1,0 +1,17 @@
+@nsobid-09A15C8259828A41B91B036B12F0687973A4627A
+
+# The Legend of Zelda Echoes of Wisdom [01008CF01BAAC800] v1.0.1 - 1080P
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 1920x1080 Docked
+// 1280x720 Handheld
+
+@enabled
+02720994 09008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

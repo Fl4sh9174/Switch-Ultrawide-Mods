@@ -1,0 +1,53 @@
+@nsobid-AEE8F150DDA1B5A838806E1A5EA6827AD9F3C51E
+
+# Pokémon Legends: Arceus [01001F5010DFA000] v1.1.1 - 3440x1440 Docked 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 3440x1440 Docked
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use stretch to window option
+// Adjusted HUD/UI
+
+@enabled
+029f0650 08AE8152 // mov w8, #0xd70
+029f0654 09B48052 // mov w9, #0x5a0
+029f0410 08AE8152 // mov w8, #0xd70
+029f0414 09B48052 // mov w9, #0x5a0
+02b9a5fc 08AE8152 // mov w8, #0xd70
+02b9a604 08B48052 // mov w8, #0x5a0
+0277bd44 09AE8152 // mov w9, #0xd70
+0277bd50 08B48052 // mov w8, #0x5a0
+029e99e8 08AEC1F2 // movk x8, #0xd70, lsl #32
+029e99f4 08B4C0F2 // movk x8, #0x5a0, lsl #32
+01261b98 C8719C52 // mov w8, #0xe38e
+01261b9c 0803A872 // movk w8, #0x4018, lsl #16
+0191ddd0 C8719C52 // mov w8, #0xe38e
+0191ddd4 0803A872 // movk w8, #0x4018, lsl #16
+019336bc C8719C52 // mov w8, #0xe38e
+019336c0 0803A872 // movk w8, #0x4018, lsl #16
+02750654 C8719C52 // mov w8, #0xe38e
+02750658 0803A872 // movk w8, #0x4018, lsl #16
+0124edfc C9719C52 // mov w9, #0xe38e
+0124ee00 0903A872 // movk w9, #0x4018, lsl #16
+0194a65c C9719C52 // mov w9, #0xe38e
+0194a660 0903A872 // movk w9, #0x4018, lsl #16
+02abe898 21273814 //    b          LAB_71038c851c
+038c851c F353BFA9 // stp x19, x20, [sp, #-0x10]!   
+038c8520 13000090 // adrp      x19,0x71038c8000
+038c8524 603E45BD // ldr       s0,[x19, #0x53c]    
+038c8528 614245BD // ldr       s1,[x19, #0x540]    
+038c852c 624645BD // ldr       s2,[x19, #0x544]    
+038c8530 634A45BD // ldr       s3,[x19, #0x548]    
+038c8534 F353C1A8 // ldp x19, x20, [sp], #0x10     
+038c8538 d9d8c717 //    b          LAB_7102abe89c 
+038c853c 0000dc43 // 440
+038c8540 00000000 // 0
+038c8544 00002045 // 2560
+038c8548 0000b444 // 1440
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

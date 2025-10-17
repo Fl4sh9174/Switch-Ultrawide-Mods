@@ -1,0 +1,33 @@
+@nsobid-D55608916FA56C184F2A8FE80DA0427C
+
+# Kirby Star Allies [01007E3006DDA000] v4.0.0 - 3440x1440
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 3440x1440 Docked
+
+@enabled
+003B6598 700d0000a0050000
+00068C80 02B48052 // mov w2, #0x5a0
+00068C84 01AE8152 // mov w1, #0xd70
+0006D608 06B48052 // mov w6, #0x5a0
+0006D60C 05AE8152 // mov w5, #0xd70
+00179C7C 02B48052 // mov w2, #0x5a0
+00179C80 01AE8152 // mov w1, #0xd70
+001CBAFC 02B48052 // mov w2, #0x5a0
+001CBB00 01AE8152 // mov w1, #0xd70
+001CBB10 01AE8152 // mov w1, #0xd70
+001CBB14 02B48052 // mov w2, #0x5a0
+001CBB38 01AE8152 // mov w1, #0xd70
+001CBB3C 02B48052 // mov w2, #0x5a0
+001cbb24 01AE8152 // mov w1, #0xd70
+001cbb28 02B48052 // mov w2, #0x5a0
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174
+
+@KeatonTheBot
+https://linktr.ee/keatonthebot

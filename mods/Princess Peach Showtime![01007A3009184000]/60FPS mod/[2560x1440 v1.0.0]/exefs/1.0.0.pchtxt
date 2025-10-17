@@ -1,0 +1,16 @@
+@nsobid-928EFE2954F680557B8B3839481C97DB
+
+# Princess Peach: Showtime! [01007A3009184000] v1.0.0 - 2K
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 2560x1440 Proper
+
+@enabled
+08982f10 1F2003D5 // screenpercentage (allow full resolution)
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

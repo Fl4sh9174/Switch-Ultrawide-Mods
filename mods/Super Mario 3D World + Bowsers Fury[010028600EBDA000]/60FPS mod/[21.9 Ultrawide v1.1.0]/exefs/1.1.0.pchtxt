@@ -1,0 +1,23 @@
+@nsobid-891687F016A18F1773D4A88EBF8A973C8E33ECC1
+
+# Super Mario 3D World + Bowser's Fury [010028600EBDA000] v1.1.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use strecth to window option
+
+@enabled
+00901638 DC719C52
+0090163c 1C03A872
+00901640 8003271E
+009701B0 0370201E
+009237C8 C9719CD2
+009237CC 0903A8F2
+008BD0FC C8719C52
+008BD100 0803A872
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

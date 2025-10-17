@@ -1,0 +1,16 @@
+@nsobid-2D369D9999E3E10E665106F840FFFF9BDAA0BB8E
+
+# Pokémon Shining Pearl [010018E011D92000] - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+00448D3C 28008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods

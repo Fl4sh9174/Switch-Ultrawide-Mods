@@ -1,0 +1,3 @@
+Adjusting HUD in Ultrawide mods isn't perfect so i'm leaving only the default HUD for now.
+
+More details about the mods on https://gamebanana.com/mods/515215

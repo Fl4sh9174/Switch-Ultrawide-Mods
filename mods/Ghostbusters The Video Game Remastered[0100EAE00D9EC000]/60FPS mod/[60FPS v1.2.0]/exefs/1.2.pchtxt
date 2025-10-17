@@ -1,0 +1,16 @@
+@nsobid-0FE6747D03EBA4E33FC755B87A2D94DC6FADCE61
+
+# Ghostbusters The Video Game Remastered [0100EAE00D9EC800] v1.2 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+003f6cbc 7FA210B9
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

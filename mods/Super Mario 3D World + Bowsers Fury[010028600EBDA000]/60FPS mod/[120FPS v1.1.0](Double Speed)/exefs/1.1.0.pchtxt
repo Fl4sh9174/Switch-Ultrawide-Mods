@@ -1,0 +1,20 @@
+@nsobid-891687F016A18F1773D4A88EBF8A973C8E33ECC1
+
+# Super Mario 3D World + Bowser's Fury [010028600EBDA000] v1.1.0 - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+
+003889e0 F50F1D32 // DashSignMaxSpeed
+00971d80 00102C1E // menu speed
+0033f81c 02102C1E // walking/running animation speed
+008eb4ac F7170832 // music speed
+00951864 F7170832 // music speed

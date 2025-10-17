@@ -1,0 +1,16 @@
+@nsobid-2B6BA3A22D40E6D4A57DFE32B4FB15F4D6C32ED7
+
+# INAZUMA ELEVEN Victory Road Worldwide Beta Test Demo Leave Your Inazuma Mark on the World [010066401D88E000]
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 2560x1080 Ultrawide adjusted HUD
+// Use stretch to window option
+
+@enabled
+00e62814 094081D2
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

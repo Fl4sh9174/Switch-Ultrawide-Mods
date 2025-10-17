@@ -1,0 +1,34 @@
+@nsobid-7F7F24FFAAC0693B63F61D375B5E42EF00000000
+
+# FANTASIAN Neo Dimension [01001BB01E8E2000] v1.0.0 - 21:9 Adjusted HUD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect ratio optimized for 3440x1600 Adjusted HUD
+// Use stretch to window option
+// 3440x1600 Was necessary because 3440x1440 was cropping the top part of the image
+// The actual aspect ratio is 2.15
+
+@enabled
+008991c0 0A008252
+008ae48c 17C88052
+008ae498 01AE8152
+008ae534 01AE8152
+008ae700 01AE8152
+008ae704 02C88052
+008991c8 03C88052
+008991d0 02AE8152
+00807e90 08AE8152
+00807e94 18C88052
+00899118 08AE8152
+0089911c 09C88052
+00899130 08AE8152
+00899138 08C88052
+00d19090 01AE81D2
+00d19094 01C8C0F2
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

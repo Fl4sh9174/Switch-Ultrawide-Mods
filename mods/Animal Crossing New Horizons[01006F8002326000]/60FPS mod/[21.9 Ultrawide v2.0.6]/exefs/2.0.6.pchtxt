@@ -1,0 +1,22 @@
+@nsobid-15765149DF53BA4105C75A3A1A5102FC
+
+# Animal Crossing New Horizons [01006F8002326000] v2.0.6 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use stretch to window option
+// The UI and text are adjusted to ultrawide so no more distortions
+// some graphical issue are expect since the game wasnt made for 21:9
+
+@enabled
+03991e40 8ee31840
+02c768e0 1c03a852
+02c768e4 dc719c72
+02c768e8 8003271e
+00ef5c40 e003271e
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

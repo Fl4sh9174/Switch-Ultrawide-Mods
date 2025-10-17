@@ -1,0 +1,16 @@
+@nsobid-AD9EE4518B1D8CA811FBDF35FC4F26D5FC1ADA57
+
+# Sonic Racing: CrossWorlds [01006E001823C000] vx.xx - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled
+00190620 0B008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

@@ -1,0 +1,16 @@
+@nsobid-2D369D9999E3E10E665106F840FFFF9BDAA0BB8E
+
+# Pokémon Brilliant Diamond [0100000011D90000] - Uncap FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+00448D3C 08008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods

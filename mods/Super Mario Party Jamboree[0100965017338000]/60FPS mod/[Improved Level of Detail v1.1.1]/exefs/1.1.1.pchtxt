@@ -1,0 +1,16 @@
+@nsobid-EDBA963A92FA0C6811974A81A8B0E6941D8FFCE4
+
+# Super Mario Party Jamboree [0100965017338000] v1.1.1 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Improved Level of Detail
+
+@enabled
+008834e0 00103E1E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://ko-fi.com/fl4sh9174

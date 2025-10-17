@@ -1,0 +1,15 @@
+@nsobid-891687F016A18F1773D4A88EBF8A973C8E33ECC1
+
+# Super Mario 3D World + Bowser's Fury [010028600EBDA000] v1.1.0 - Disable DOF
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Removes DOF Effect
+
+@enabled
+0088ECB0 C0035FD6
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

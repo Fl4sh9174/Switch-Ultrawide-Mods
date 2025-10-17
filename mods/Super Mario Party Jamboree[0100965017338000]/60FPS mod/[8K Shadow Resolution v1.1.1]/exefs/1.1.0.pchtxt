@@ -1,0 +1,16 @@
+@nsobid-5A7A58268E5F214883526141DBE4BF2ED2CCC691
+
+# Super Mario Party Jamboree [0100965017338000] v1.1.0 - 8K Shadow res
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 8192x8192 Shadow res
+
+@enabled
+015d2050 00200000 // shadow resolution
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://ko-fi.com/fl4sh9174

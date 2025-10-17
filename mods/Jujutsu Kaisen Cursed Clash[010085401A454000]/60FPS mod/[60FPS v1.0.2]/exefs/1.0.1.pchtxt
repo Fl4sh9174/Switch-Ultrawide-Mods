@@ -1,0 +1,20 @@
+@nsobid-372BF1E32FC51836ED071D09523F06A7
+
+# Jujutsu Kaisen Cursed Clash [010085401A454000][EUR] v1.0.1 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+0361be00 E8008052
+0361baac 1F4EA872
+0361bab0 E103271E
+03cd1ec8 1F2003D5 
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+@StevensND
+https://linktr.ee/stevenssv2

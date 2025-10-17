@@ -1,0 +1,16 @@
+@nsobid-CF82524FEAE270B6C3C8A4C92F757D3D
+
+# Sonic Racing: CrossWorlds [01006E001823C000] v1.12 - 4K
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 3840x2160 Docked 1920x1080 handheld
+
+@enabled
+00757e88 00102E1E // fmov s0, #1.00000000      // Resolution Scaling
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

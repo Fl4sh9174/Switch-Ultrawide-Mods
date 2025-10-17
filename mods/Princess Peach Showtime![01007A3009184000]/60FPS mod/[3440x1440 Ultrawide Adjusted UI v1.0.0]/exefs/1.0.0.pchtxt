@@ -1,0 +1,24 @@
+@nsobid-928EFE2954F680557B8B3839481C97DB
+
+# Princess Peach: Showtime! [01007A3009184000] v1.0.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use stretch to window option
+// Fix the UI aspect ratio
+
+@enabled
+043294f4 C9719C52 // blackbars
+043294f8 0903A872 // blackbars
+01feced0 1B52A852 // fov
+01fecef4 6803271E // fov
+08982f10 1F2003D5 // screenpercentage (allow full resolution)
+0432bb8c 0310251E // adjust wardrobe fov/zoom
+0432bb9c 6028201E // adjust wardrobe fov/zoom
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

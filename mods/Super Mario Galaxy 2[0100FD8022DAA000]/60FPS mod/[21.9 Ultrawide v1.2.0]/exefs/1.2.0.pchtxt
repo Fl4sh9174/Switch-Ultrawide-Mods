@@ -1,0 +1,22 @@
+@nsobid-C3225B609AD4F3BAEAA5372850716A28ADC1CEB7
+
+# Super Mario Galaxy 2 [0100fd8022daa000] v1.2.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio
+// Use stretch to window option
+
+@enabled
+000675C0 C0008052 // upscale
+002FFD48 C8719C52 // mov w8, #0xe38e
+002FFD4C 0803A872 // movk w8, #0x4018, lsl #16
+002FFD50 0B01271E // fmov s11, w8
+// 002FFD5C C880A852 // fov/hud
+0015C96C C870A852 // culling
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

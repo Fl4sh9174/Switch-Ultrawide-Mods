@@ -1,0 +1,22 @@
+@nsobid-D55608916FA56C184F2A8FE80DA0427C
+# Kirby Star Allies [01007E3006DDA000] v4.0.0
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 1080p (no dynamic res on levels)
+
+@enabled
+003B6598 8007000038040000
+00068C80 02878052 // mov w2, #0x438
+00068C84 01F08052 // mov w1, #0x780
+0006D608 05F08052 // mov w5, #0x780
+0006D60C 06878052 // mov w6, #0x438
+001CBB10 01F08052 // mov w1, #0x780
+001CBB14 02878052 // mov w2, #0x438
+001CBB38 01A08052 // mov w1, #0x500
+001CBB3C 025A8052 // mov w2, #0x2d0
+@stop
+
+@KeatonTheBot
+https://linktr.ee/keatonthebot

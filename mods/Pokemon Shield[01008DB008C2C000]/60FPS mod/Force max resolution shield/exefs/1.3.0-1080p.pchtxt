@@ -1,0 +1,17 @@
+@nsobid-3518BF2EAD557FE65980AC7DF0734EC7A5595D32
+// nsobid found in main @ offset 0x40
+
+# Pokemon shield v1.3.0 - Force Max Resolution
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Makes all areas in the game MAX resolution
+
+@enabled
+00F1B9D0 1F2003D5
+00F6AA10 C0035FD6
+@stop
+
+@theboy181
+@ClaudevonRiegan

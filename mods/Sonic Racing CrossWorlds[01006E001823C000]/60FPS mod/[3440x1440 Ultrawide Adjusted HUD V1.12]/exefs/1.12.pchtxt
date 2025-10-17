@@ -1,0 +1,35 @@
+@nsobid-CF82524FEAE270B6C3C8A4C92F757D3D
+
+# Sonic Racing: CrossWorlds [01006E001823C000] v1.12 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+00757e88 00102E1E // fmov s0, #1.00000000      // Resolution Scaling
+00ab6d28 af113114 // b          LAB_71016fb3e4 // Remove blackbars
+016fb3e4 e8170290 // adrp       x8,0x71059f7000// Remove blackbars
+016fb3e8 003d46bd // ldr        s0,[x8, #0x63c]// Remove blackbars
+016fb3ec 50eece17 // b          LAB_7100ab6d2c // Remove blackbars
+059f763c 8ee31840 // 2.38888888                //
+009d0ce8 8c000054 // b.gt       LAB_71009d0cf8 // Fov menu/cutscenes
+009d0cec 1F2003D5 // mov  w8, #0x0000          // Fov menu/cutscenes
+009d0cf0 0854A872 // movk w8, #0x42a0, lsl #16 // Fov menu/cutscenes
+009d0cf4 0001271E // fmov s0,w8                // Fov menu/cutscenes
+009d0cf8 48F3A752 // mov  w8, #0x3f940000      // Fov menu/cutscenes
+009d0cfc 0101271E // fmov s1, w8               // Fov menu/cutscenes
+009d0d00 0008211E // fmul s0,s0,s1             // Fov menu/cutscenes
+01b142f0 C9719C52 // mov  w9,#0xe38e           //
+01b142f4 0903A872 // movk w9,#0x4018, LSL #16  //
+00f31d84 C8719C52 // mov  w8,#0xe38e           //
+00f31d88 0803A872 // movk w8,#0x4018, LSL #16  //
+00fc4470 C8719C52 // mov  w8,#0xe38e           //
+00fc4474 0803A872 // movk w8,#0x4018, LSL #16  //
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

@@ -1,0 +1,21 @@
+@nsobid-3E659DB2F020AC3B293122C94AB176E1
+
+# The Legend of Legacy HD Remastered [010099F01C258000][US] v1.0.3 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+008187d8 28008052
+023a585c 1E4EA852
+023a5860 C103271E
+023a5864 0018211e
+023a5868 fd7bc2a8
+023a586c c0035fd6
+00ca6fd0 1F2003D5
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

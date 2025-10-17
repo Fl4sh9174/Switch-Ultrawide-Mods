@@ -1,0 +1,16 @@
+@nsobid-43AE51EE9766867DA5F1272CA0D3D8A60AC53296
+
+# Mario vs. Donkey Kong [0100B99019412000] v1.0.1 - Disable DOF
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Disable DOF
+
+@enabled
+012AE28D 1F2003D5
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods

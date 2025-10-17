@@ -1,0 +1,16 @@
+@nsobid-8618895246B420329B77746B960A66ABCBEDE992
+
+# Princess Peach: Showtime! [01007A3009184000] - Uncap FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Uncap FPS
+
+@enabled
+0017F530 08008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods

@@ -1,0 +1,29 @@
+I beat the game 100% using the 120fps mod, so it's playable despite having some issues. Just follow these instructions:
+
+Intro cutscene camera desync: Press ZL + Dpad Right to fix it. Use ZL + Dpad Left after the cutscene to restore the desired values for gameplay.
+
+Poplin dialogues softlock solution: Press ZL + Dpad Up to fix it. After the dialogue, use ZL + Dpad Down to restore the original value.
+
+Fix other issues: ZL + Dpad Up can also fix other issues, like when you need to break a block underwater using the dolphin kick badge.
+
+Camera speed in some stages: In some stages, the camera is a bit slower than normal, like in Fluff-Puff Peaks Flying battleship, but you can play it with no issues.
+
+Bypass dialogues softlock and adjust speed: ZL button + Up/Down/Right/Left can bypass the dialogues softlock and adjust the speed of certain levels, e.g., Climb to the Beat and Bulrush Express.
+
+Desired speed for gameplay: ZL + Dpad Left and Down are desired for the correct speed in gameplay most of the time.
+
+Adjusted timer for all seeds: I adjusted the timer of all seeds in the game to be achievable using the 120fps mod.
+
+Final fight against Bowser: ZL + Dpad Up is mandatory. Enable it when the fight begins; if you don't use ZL + Dpad Up, the fight will softlock in the middle of the battle.
+
+How to install the mod:
+
+Yuzu: Right-click the game and select "Open Mod Data Location," then extract the .zip there.
+
+Ryujinx: Right-click the game and select "Open Mods Directory," then extract the .zip there.
+
+Switch: Convert it to IPS and put the files in atmosphere/exefs_patches/MOD NAME/xxx.ips
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

@@ -1,0 +1,24 @@
+@nsobid-38F59CBDA2EB9C44B72F94C4D25935A2
+
+# Pokémon Shining Pearl [010018E011D92000] v1.3.0 - 4K
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 3840x2160 Docked/Handheld
+// Disable dynamic resolution
+
+@enabled
+006062fc 17E08152
+00606300 160E8152
+006063b4 08E08152
+006063bc 080E8152
+0061a714 01E08152
+0061a718 020E8152
+00605218 030E8152
+00605224 02E08152
+00605214 09008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

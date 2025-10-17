@@ -1,0 +1,16 @@
+@nsobid-2727A7B623D823173924E69CDBB2A1DF
+
+# LOLLIPOP CHAINSAW RePOP [0100DD301A686000][USA] 1.3 - Juliet Behavior
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Juliet won't try to hide her panties
+
+@enabled
+02C9CDF8 0210201E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

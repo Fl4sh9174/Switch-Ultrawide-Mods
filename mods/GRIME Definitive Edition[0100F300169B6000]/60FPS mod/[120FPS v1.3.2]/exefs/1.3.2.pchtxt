@@ -1,0 +1,14 @@
+@nsobid-12F161039300861F1054371F0E36B8C942A25399
+
+# GRIME Definitive Edition [0100F300169B6000] v1.3.2 - 120FPS
+
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled
+00186780 08008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

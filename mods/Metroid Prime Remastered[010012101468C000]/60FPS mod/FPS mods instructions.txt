@@ -1,0 +1,5 @@
+- 120/144/240 fps will work on yuzu only
+- On Ryujinx you can limit the framerate to the desired FPS using rivaturner,
+nvidia control panel or similar programs.
+- 240FPS is a bit unstable on Yuzu and can cause crash
+- 240FPS ryujinx works better, but need capping fps with external programs.

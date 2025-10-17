@@ -1,0 +1,16 @@
+@nsobid-4FEA41DD7345ECA3A4CE829C398227A4082F758D
+
+# Fire Emblem Warriors [0100F15003E64000] v1.5.0 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+002a22dc 08008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

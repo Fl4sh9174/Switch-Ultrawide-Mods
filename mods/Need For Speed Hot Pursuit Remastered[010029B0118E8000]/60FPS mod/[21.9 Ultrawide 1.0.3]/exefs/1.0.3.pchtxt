@@ -1,0 +1,22 @@
+@nsobid-799D1061182C1302E08E706B84CE76E55B4EC396
+
+# Need For Speed Hot Pursuit Remastered [010029B0118E8000] v1.0.3 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect ratio optimized for 3440x1440
+// Use Stretch to window option
+
+@enabled
+00b78de8 8ee31840
+0028df90 1F2003D5
+002cc734 1F2003D5
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174
+
+00008198 09408152
+000081ac 0AB48052

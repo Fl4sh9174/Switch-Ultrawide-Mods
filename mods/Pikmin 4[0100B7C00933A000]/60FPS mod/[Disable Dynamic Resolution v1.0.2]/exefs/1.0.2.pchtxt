@@ -1,0 +1,16 @@
+@nsobid-BB89070F5B0028FFC71B8070F462C938
+
+# Pikmin 4 [0100B7C00933A000] v1.0.2 - Disable DR
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Disable Dynamic Resolution
+
+@enabled
+0598a79c 080080D2 // disable dynamic resolution (r.DynamicRes.OperationMode)
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://ko-fi.com/fl4sh9174

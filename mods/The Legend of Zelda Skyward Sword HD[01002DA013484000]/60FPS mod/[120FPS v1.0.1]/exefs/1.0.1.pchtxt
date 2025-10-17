@@ -1,0 +1,21 @@
+@nsobid-5441AF3C89F97E1D25A8CCF14C742BF82336D8A8
+
+# The Legend of Zelda Skyward Sword HD [01002DA013484000] v1.0.1 - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled
+0104a4fc 1F2003D5
+0181bd38 0000803e
+0104a504 A820A872
+0104a510 A820A872
+00b386f4 01F0291E
+00b386fc 2008211E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

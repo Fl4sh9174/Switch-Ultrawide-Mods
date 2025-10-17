@@ -1,0 +1,23 @@
+@nsobid-59874C9B530095ACE0298B938D8E5EA700000000
+
+# Mario & Luigi Brothership [01006D0017F7A000] v1.0.0 - 4K
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 3840x2160 Docked
+// Use extended memory Layout
+
+@enabled
+02b397e4 150E8152
+02b397e8 16E08152
+00ebd79c 09AEA852
+00ebd7a0 2901271E
+00ebd7a4 E8A0A852
+00ebd7a8 0801271E
+00ebd7ac 06000014
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

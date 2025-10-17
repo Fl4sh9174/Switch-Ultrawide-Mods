@@ -1,0 +1,4 @@
+- Ultrawide mods set resolution to 2580x1080 to avoid visual glitches
+- Ultrawide mods and Resolution mods cant be used togheter
+- Adjusted HUD mod will glitch minimap position a bit
+- The Improved Quality mod has a significant impact on performance
