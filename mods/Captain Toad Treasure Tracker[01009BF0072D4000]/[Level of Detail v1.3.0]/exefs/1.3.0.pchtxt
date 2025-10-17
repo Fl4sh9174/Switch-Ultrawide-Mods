@@ -1,0 +1,16 @@
+@nsobid-8F75C9B8B7FF69D96D6FBD6533A5930120985B2D
+
+# Captain Toad Treasure Tracker [01009BF0072D4000] 1.3.0 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Improved level of detail
+
+@enabled
+004c8828 00D0351E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

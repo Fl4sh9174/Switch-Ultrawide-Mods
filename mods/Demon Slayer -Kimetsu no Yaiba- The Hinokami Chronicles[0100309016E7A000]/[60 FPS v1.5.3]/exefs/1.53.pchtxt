@@ -1,0 +1,18 @@
+@nsobid-14C878ECCA9D7CB5B57E9B492B1BDB92
+
+# Demon Slayer - Kimetsu no Yaiba - The Hinokami Chronicles [010007500F27C000] - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+07F6FDA8 1F2003D5
+07E249C4 1F2003D5
+052a70a8 08008052
+@stop
+
+@StevensND
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

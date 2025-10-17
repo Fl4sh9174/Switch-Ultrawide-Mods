@@ -1,0 +1,8 @@
+[Increase Luigi's speed HOLD right stick button v1.0.0]
+04000000 004753d0 EE811A03
+80000020
+04000000 004753d0 EEB11A04
+20000000
+
+[Work on Yuzu Only]
+[Made by Fl4sh]

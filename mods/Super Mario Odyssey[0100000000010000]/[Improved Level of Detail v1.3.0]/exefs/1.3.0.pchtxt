@@ -1,0 +1,17 @@
+@nsobid-B424BE150A8E7D78701CBE7A439D9EBF
+
+# SUPER MARIO ODYSSEY [0100000000010000] v1.3.0 - Improved LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Improved LOD (Best texture quality overall)
+
+@enabled
+008fe52c 00103E1E
+0098b648 E003271E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

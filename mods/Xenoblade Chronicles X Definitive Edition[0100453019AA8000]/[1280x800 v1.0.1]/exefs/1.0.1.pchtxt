@@ -1,0 +1,19 @@
+@nsobid-3F2425864CF226844511065F77AA3E36FB5FC33F
+
+# Xenoblade Chronicles X Definitive Edition [0100453019AA8000] v1.0.1 - SteamDeck
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 1280x800 optimized for steamdeck
+
+@enabled
+0180d95c 00050000
+0180d960 20030000
+0180d964 00050000
+0180d968 20030000
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

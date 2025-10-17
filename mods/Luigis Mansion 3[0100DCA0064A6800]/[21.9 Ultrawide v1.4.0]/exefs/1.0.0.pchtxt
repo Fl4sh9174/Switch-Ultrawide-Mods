@@ -1,0 +1,20 @@
+@nsobid-486F6A3B2D6BCF5CAB2E6B029E289C1BA6C3521F
+
+# Luigis Mansion 3 [0100DCA0064A6800] v1.0.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+00065E04 DC719C52
+00065E10 1C03A872
+00065E14 8003271E
+013488a4 8ee31840
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

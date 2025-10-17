@@ -1,0 +1,18 @@
+@nsobid-486F6A3B2D6BCF5CAB2E6B029E289C1BA6C3521F
+        
+// nsobid found in main @ offset 0x40
+
+# Luigi's Mansion 3 - Disable Dynamnic Resolution
+
+@flag print_values
+@flag offset_shift 0x100
+
+// disables resolution scaling in docked mode
+
+@enabled
+007669AC 08102E1E
+007669b0 09102E1E
+00B105A8 27000014
+@stop
+
+@theboy181

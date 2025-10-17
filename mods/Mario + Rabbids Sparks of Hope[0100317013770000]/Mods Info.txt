@@ -1,0 +1,3 @@
+- Use only one resolution mod at a time
+- Ultrawide mod cannot be used alongside other resolution mods
+- 3200x1800 is experimental and has some visual issues, use at your own risk.

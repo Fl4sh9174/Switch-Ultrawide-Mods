@@ -1,0 +1,29 @@
+@nsobid-5B76A43B231E0640521AC66203F7C178
+
+# Mario + Rabbids Sparks of Hope [0100317013770000][USA] v1.6.2225577 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Ultrawide optimized for 3440x1440
+
+@enabled
+002863c8 884281D2 // mov x8, #0xa14            // 2580
+002863d4 0887C0F2 // movk x8, #0x438, lsl #32  // 1080
+033664b0 00102E1E // fmov s0, #1.00000000      // Resolution scaling
+001c838c 8d4f8b15 // b #0x62d3e40              //    b          LAB_710649c1c0
+0649c1c0 81F5A752 // mov w1, #0x3fac0000       // 
+0649c1c4 3E00271E // fmov s30, w1              // 
+0649c1c8 21083E1E // fmul s1, s1, s30          // 
+0649c1cc 2820201e // fcmp s1, #0.0             // 
+0649c1d0 70b07416 // b #0xfffffffff9d2c1e0     //    b          LAB_71001c8390
+// 02c49dc4 0449e114 // b #0x3852434              //    b          LAB_710649c1d4
+// 0649c1d4 88F5A752 // mov w8, #0x3fac0000       // 
+// 0649c1d8 1E01271E // fmov s30, w8              // 
+// 0649c1dc A5083E1E // fmul s5, s5, s30          // 
+// 0649c1e0 ffb61e17 // b #0xfffffffffc7adc30     //    b          LAB_7102c49ddc
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

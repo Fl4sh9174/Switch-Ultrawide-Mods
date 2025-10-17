@@ -1,4 +1,0 @@
-- [21.9 Ultrawide v1.4.0] can be used with default resolution, 2560x1440 and 3840x2160.
-
-- [3440x1440 Ultrawide v1.4.0] set the correct aspect ratio for this resolution and can't
-be used with other resolutions.

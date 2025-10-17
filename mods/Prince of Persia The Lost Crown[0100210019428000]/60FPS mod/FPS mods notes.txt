@@ -1,5 +1,0 @@
-All the FPS mods included in this folder unlock true FPS for this game, all frames are being show now.
-
-On Ryujinx you can cap the FPS using rivaturner or similar apps.
-
-144~240 fps works only on Yuzu out of the box.

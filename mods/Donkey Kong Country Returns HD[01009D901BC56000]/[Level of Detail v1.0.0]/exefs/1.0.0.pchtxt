@@ -1,0 +1,16 @@
+@nsobid-8AC516E8A5D2564B8A2DFC11D3907B9F
+
+# Donkey Kong Country Returns HD [01009D901BC56000] 1.0.0 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Maximum Level of Detail
+
+@enabled
+00f0d27c 00D0351E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

@@ -1,0 +1,17 @@
+@nsobid-8F75C9B8B7FF69D96D6FBD6533A5930120985B2D
+
+# Captain Toad Treasure Tracker [01009BF0072D4000] 1.3.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Optimized for 3440x1440
+// Use Stretch to Window
+
+@enabled
+002b5cac 0370201E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

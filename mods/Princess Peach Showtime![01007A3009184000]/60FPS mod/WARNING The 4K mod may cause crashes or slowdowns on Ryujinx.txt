@@ -1,2 +1,0 @@
-WARNING: The 4K mod may cause crashes or slowdowns on Ryujinx.  They need to increase texture cache total size limit to fix it, and you need a powerful PC to handle it.
-more info on: https://gamebanana.com/mods/502305

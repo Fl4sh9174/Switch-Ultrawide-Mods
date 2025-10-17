@@ -1,0 +1,17 @@
+@nsobid-2452C49BC26EC15904C507A34B6F16AE
+
+# Mario Kart 8 Deluxe [0100152000022000] v3.0.4 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Improved lodbias
+
+@enabled
+00a65dc0 E003271E
+00641e88 E003271E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

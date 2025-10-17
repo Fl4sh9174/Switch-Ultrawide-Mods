@@ -1,2 +1,0 @@
-On newer version of Yuzu, the 60fps mod stopped woorking automatically, now you need to set the speed limit percent
-to 200% to make it 60fps again

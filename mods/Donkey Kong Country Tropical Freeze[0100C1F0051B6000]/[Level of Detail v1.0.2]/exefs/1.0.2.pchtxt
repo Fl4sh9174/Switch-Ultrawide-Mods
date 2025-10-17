@@ -1,0 +1,15 @@
+@nsobid-F48BD40D89B529C114F17C7909FE6AA4
+
+# Donkey Kong Country Tropical Freeze [0100C1F0051B6000] 1.0.2 - LodBias
+
+@flag print_values
+@flag offset_shift 0x100
+
+// LodBias
+
+@enabled
+0005b5f0 00103E1E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

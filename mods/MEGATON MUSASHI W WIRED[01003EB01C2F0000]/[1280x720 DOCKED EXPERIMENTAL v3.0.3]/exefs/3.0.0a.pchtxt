@@ -1,0 +1,20 @@
+@nsobid-B64B9654A7CA59DABAEF837277FF27B0
+
+# MEGATON MUSASHI W: WIRED [01003EB01C2F0000] v3.0.0a - 1280x720
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 1280x720 Docked
+
+@enabled
+014d29e0 08A08052
+014d29e8 085A8052
+02bfd48c 09A080D2
+02bfd498 095AC0F2
+02bfd6f4 09A080D2
+02bfd6fc 095AC0F2
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

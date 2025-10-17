@@ -1,0 +1,18 @@
+@nsobid-8DEE425C06CB9C1961AE04E413D1CA33
+
+# Bomb Rush Cyberfunk [0100317014B7C000] v1.0.19975 - 21:9 Original Resolution
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Ultrawide optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+0088b318 DE719C52
+0088b31c 1E03A872
+0088b320 C003271E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

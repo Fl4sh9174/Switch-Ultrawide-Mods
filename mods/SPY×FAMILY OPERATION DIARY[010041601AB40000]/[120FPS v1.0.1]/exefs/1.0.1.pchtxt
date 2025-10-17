@@ -1,0 +1,16 @@
+@nsobid-2587A39AC2547A780EC0E4B77E22AFAB5C30C3AD
+
+# SPY×FAMILY OPERATION DIARY [010041601AB40000] v1.0.1 - 120FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 120FPS
+
+@enabled
+0017f1b4 00102C1E
+0017f1b8 0800381E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

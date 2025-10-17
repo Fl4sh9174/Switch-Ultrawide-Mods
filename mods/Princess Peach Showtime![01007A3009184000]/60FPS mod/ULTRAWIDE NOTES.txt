@@ -1,4 +1,0 @@
-3440x1440 Version must be used alone, this is the recommended version, best quality.
-
-Old method works fine, but at lower quality than the native 3440x1440 version,
-both old method's version can be used with any resolution, good for low end devices.

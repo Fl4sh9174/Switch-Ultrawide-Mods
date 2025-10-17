@@ -1,0 +1,16 @@
+@nsobid-1C689518406930512C13DDF4217E7676
+
+# Crash Team Racing Nitro-Fueled [0100F9F00C696000] v1.0.15 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+015a8a58 01008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

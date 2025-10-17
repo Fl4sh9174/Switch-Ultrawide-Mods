@@ -1,0 +1,23 @@
+@nsobid-A3B75BCD3311385AEED67FBEEB79CBB7BF02F471
+
+# Pokémon Sword [0100ABF008968000] v1.3.2 - 21:9 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use strecth to window option
+
+@enabled
+00d93414 2C03A8F2 // Culling
+00607de8 C971DCF2 // Aspect Ratio
+00607dec 0903E8F2 // Aspect Ratio
+006076c4 e8ffff17 // Camera distortion
+00607664 c9719c52 // Camera distortion
+00607668 0903a872 // Camera distortion
+0060766c 17000014 // Camera distortion
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

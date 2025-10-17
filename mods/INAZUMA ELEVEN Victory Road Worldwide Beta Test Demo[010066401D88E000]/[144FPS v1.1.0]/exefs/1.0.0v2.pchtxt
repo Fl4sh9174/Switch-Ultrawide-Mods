@@ -1,0 +1,15 @@
+@nsobid-3053B22935E32DDF15EF81997603E5C267534A90
+
+# INAZUMA ELEVEN Victory Road Worldwide Beta Test Demo Leave Your Inazuma Mark on the World [010066401D88E000]
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 144FPS
+
+@enabled
+00186630 081E8052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

@@ -1,4 +1,0 @@
-To use the 4K mod(2160P), change the memory layout to 8GB Dram to avoid crashing.
-For Ultrawide use these:
-[21.9 Ultrawide 1440P v1.0.1]
-[21.9 Ultrawide 1080P v1.0.1]

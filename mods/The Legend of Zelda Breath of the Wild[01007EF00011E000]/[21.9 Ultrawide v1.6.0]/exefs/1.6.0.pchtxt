@@ -1,0 +1,26 @@
+@nsobid-8E9978D50BDD20B4C8395A106C27FFDE
+
+# The Legend of Zelda Breath of the Wild [01007EF00011E000] 1.6.0 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Optimized for 3440x1440
+// Use Stretch to Window
+
+@enabled
+00e0ad60 C9719C52 //mov w9, #0xe38e           
+00e0ad64 0903A872 //movk w9, #0x4018, lsl #16 
+00e0ad68 2001271E //fmov s0, w9               
+01271870 C9719C52 //mov w9, #0xe38e          
+01271874 0903A872 //movk w9, #0x4018, lsl #16
+01271878 2001271E //fmov s0, w9              
+0127187c c0035fd6 //ret                      
+015c2140 C8719C52 //mov w8, #0xe38e          
+015c2144 0803A872 //movk w8, #0x4018, lsl #16
+015c2148 0001271E //fmov s0, w8              
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

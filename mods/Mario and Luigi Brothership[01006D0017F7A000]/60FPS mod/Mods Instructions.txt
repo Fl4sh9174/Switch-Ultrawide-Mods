@@ -1,7 +1,0 @@
-- 3840x2160 requires Extended memory layout for any emulator
-- Speed Hack work only on Switch/Yuzu and its forks
-- Ultrawide mod cannot be used with other resolution mods
-
-Emulators are a bit unstable with this game, i recommend using CPU Accuracy in Accurate for Yuzu/Sudachi/Yuzu Forks, performance is worse but less visual glitches.
-
-In Ryujinx you can try OpenGL if encountering issues with Vulkan, there are some visual glitches using opengl but it can help with crashes, do your own tests.

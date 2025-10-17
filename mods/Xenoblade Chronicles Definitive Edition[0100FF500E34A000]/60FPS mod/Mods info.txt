@@ -1,6 +1,0 @@
-Resolution and ultrawide mods messy with the HUD, i was able to remove the hud or resize it,
-but couldnt adjust it centered like in the original resolution.
-
-Use only one resolution/ultrawide mode at a time.
-
-All other mods can be used togheter.

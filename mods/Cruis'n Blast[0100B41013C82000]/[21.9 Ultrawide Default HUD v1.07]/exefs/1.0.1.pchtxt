@@ -1,0 +1,19 @@
+@nsobid-9346D69ABD4CC24BA10E47C58040024400000000
+
+# Cruis n Blast [0100B41013C82000] v1.07 - 21:9 Default HUD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect ratio optimized for 3440x1440 Default HUD (Stretch)
+// Use stretch to window option
+
+@enabled
+00521084 DE719C52
+00521088 1E03A872
+0052108c C003271E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

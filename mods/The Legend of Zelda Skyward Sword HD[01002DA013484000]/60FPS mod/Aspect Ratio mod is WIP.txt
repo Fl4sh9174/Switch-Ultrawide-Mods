@@ -1,4 +1,0 @@
-Aspect Ratio offsets had no effect in this game, atleast Field of View works,
-mitigating the stretching issue caused by the wrong aspect ratio.
-
-You can use the cheat or the pchtxt for the FOV mod, same effect.

@@ -4,7 +4,7 @@ Script to update ZIP archives with extracted mod files.
 
 This script will:
 1. Navigate through each game directory in the mods folder
-2. Find all non-ZIP files and directories in the "60FPS mod" subfolder
+2. Find all non-ZIP files and directories in each game directory
 3. Update the existing ZIP archive to include all extracted mod files
 4. Keep both the updated ZIP file and the extracted folders
 
@@ -95,11 +95,7 @@ def compact_mod_directory(mod_directory: Path, game_name: str) -> Tuple[bool, st
 def process_single_game(game_dir: Path) -> Tuple[bool, str]:
     game_name = game_dir.name
     
-    mod_dir = game_dir / "60FPS mod"
-    if not mod_dir.exists():
-        return False, f"⚠ {game_name}: No '60FPS mod' directory found"
-    
-    return compact_mod_directory(mod_dir, game_name)
+    return compact_mod_directory(game_dir, game_name)
 
 
 def process_all_mods(mods_path: Path) -> None:

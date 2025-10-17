@@ -1,0 +1,26 @@
+@nsobid-F48BD40D89B529C114F17C7909FE6AA4
+
+# Donkey Kong Country Tropical Freeze [0100C1F0051B6000] 1.0.2 - 8K Docked Ultrawide
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 7680x2160 Docked Ultrawide
+// 3840x2160 Handheld
+// Use 6Gb Extended Memory Layout
+
+@enabled
+0151f1a8 398e6340
+002dd344 7EFCA752
+002dd348 C003271E
+0001F62C 00C08352
+0001F634 40D48152
+0001F63C 00E08152
+0001F644 000E8152
+0001F64C 00E08152
+0001F654 000E8152
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

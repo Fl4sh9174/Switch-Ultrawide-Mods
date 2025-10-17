@@ -1,3 +1,0 @@
-High resolution mods will crash on Yuzu using Vulkan, only 1080P mod is stable on Yuzu.
-All resolution mods are working fine on Ryujinx, tested on 78 minigames and 1 complete match
-and not a single crash.

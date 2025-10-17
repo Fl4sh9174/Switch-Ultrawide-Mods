@@ -1,0 +1,4 @@
+FPS mods are WIP, but in a playable state.
+Menus are a bit speedup
+Some animations may be out of sync
+Higher the FPS, higher the speedup and desync will be.

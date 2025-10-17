@@ -1,0 +1,22 @@
+@nsobid-2841E26D7FB8AA1783AFD4B6C116D4F9FDF7739F
+
+# Mario Party Superstars [01006FE013472000] v1.1.1 - 4K
+
+@flag print_values
+@flag offset_shift 0x100
+
+//3840x2160 Docked
+
+@enabled
+0071bb6c 090E8152 // Resolution values found with GDB
+0071bb74 0AE08152 // Resolution values found with GDB
+0071bdc8 09E08152 // Resolution values found with GDB
+0071bdb0 080E8152 // Resolution values found with GDB
+00307138 1CE081D2 // RenderingResolutionStage.Stage1
+00307140 1C0EC1F2 // RenderingResolutionStage.Stage1
+001002c4 1A008252 // Portraits Resolution
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

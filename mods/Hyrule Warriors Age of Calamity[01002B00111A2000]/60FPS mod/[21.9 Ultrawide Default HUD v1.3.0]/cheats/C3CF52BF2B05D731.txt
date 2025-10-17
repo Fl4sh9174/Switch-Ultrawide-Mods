@@ -1,6 +1,0 @@
-[Fix Disappearing objects]
-80000001
-04000000 0189ea34 1E207008
-20000000
-
-[made by Fl4sh]

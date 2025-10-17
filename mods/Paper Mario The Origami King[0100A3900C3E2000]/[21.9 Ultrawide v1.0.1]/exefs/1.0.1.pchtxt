@@ -1,0 +1,18 @@
+@nsobid-E74395F066FD8CCB51EC17B39B3DA2C8CF520089
+
+# Paper Mario The Origami King [0100A3900C3E2000] v1.0.1 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 Aspect Ratio optimized for 3440x1440
+// Use stretch to window option
+
+@enabled
+002665b8 0170201E
+0026a2c8 C9719C52
+0026a2d4 0903A872
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

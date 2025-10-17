@@ -1,0 +1,15 @@
+@nsobid-8D1A8768E333A516455B1F975ECA9EC11CFD6077
+
+# Splatoon 3 [0100C2500FC20000] v7.2.0 - 2580x1080
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 2580x1080 Docked
+
+@enabled
+04C65DF0 8A42C1F2
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

@@ -1,3 +1,0 @@
-On Yuzu:
-- Set emulator resolution to 1x
-- Set NVDEC emulation to CPU Video Decoding

@@ -1,0 +1,17 @@
+@nsobid-F77F1559371C0EC6D50E78774AC59D95
+
+# Xenoblade Chronicles 2 [0100E95004038000] v2.1.0 - 2K
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 2560x1440 Resolution
+
+@enabled
+006ffdc0 15408152 // mov w21, #0xa00
+006ffdc4 16B48052 // mov w22, #0x5a0
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

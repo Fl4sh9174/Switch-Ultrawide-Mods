@@ -1,0 +1,16 @@
+@nsobid-A71EC0B9FF4F54CB41A5DE4CF7472D899EDCC561
+
+# Luigis Mansion 2 HD [010048701995E000] v1.0.0 - LOD
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Level of Detail
+
+@enabled
+006c693c 0E0ABAEE
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

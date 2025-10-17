@@ -1,0 +1,15 @@
+@nsobid-13FD81A199D01431D0978243220CAA4B
+
+# South Park Snow Day [0100D1501ABAE000] 1.0.3 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+0647894e 1F2003D5
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

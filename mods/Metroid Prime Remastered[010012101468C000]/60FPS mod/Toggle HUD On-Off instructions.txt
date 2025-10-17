@@ -1,3 +1,0 @@
-- ZL + Dpad Up Restore HUD
-- ZL + Dpad Down Remove HUD
-- Tested on Yuzu Only

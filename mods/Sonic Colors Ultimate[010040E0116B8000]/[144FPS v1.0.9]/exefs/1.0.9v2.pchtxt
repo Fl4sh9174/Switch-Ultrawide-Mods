@@ -1,0 +1,15 @@
+@nsobid-2F08862A30911F87A13B11F7DD0F509DCB422D2D
+
+# Sonic Colors Ultimate [010040E0116B8000] v1.0.9 - 144FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 144FPS
+
+@enabled
+00446070 081E8052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

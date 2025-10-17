@@ -1,0 +1,8 @@
+Some Issues:
+Using custom dice block will crash the game.
+Gamespeed is normal but some minigames may softlock and timers can desync.
+e.g:Piranha's pursuit is impossible to beat without using a turbo mode...
+All the methods i've tried, fix some parts and break others.
+
+The mod is experimental and i leave it here so you can see how the game looks at 120fps
+if i fix the remaining issues i'll update the mod.

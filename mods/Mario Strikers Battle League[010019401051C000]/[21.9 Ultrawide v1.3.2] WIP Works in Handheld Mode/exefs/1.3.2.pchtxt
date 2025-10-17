@@ -1,0 +1,19 @@
+@nsobid-2E90F0815B1F92A1CBF013B3F4D358F41D729F4E
+
+# Mario Strikers: Battle League [010019401051C000] v1.3.2 - 21:9
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 21:9 in handheld mode
+// This game's aspect ratio is tied to the resolution, its a bit limited.
+
+@enabled
+00ab99d4 09F08052 // 1920
+00ab99d8 0AF08052 // 1920
+00ab99dc 0B878052 // 1080
+00ab99e0 8C648052 // 804
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174

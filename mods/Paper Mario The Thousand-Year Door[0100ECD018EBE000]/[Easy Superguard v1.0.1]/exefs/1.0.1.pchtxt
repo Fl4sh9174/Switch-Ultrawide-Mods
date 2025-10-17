@@ -1,0 +1,16 @@
+@nsobid-0EFFE4AF1DEC3A7966B934D4A7C3D2BF566A9C62
+
+# Paper Mario_ The Thousand-Year Door [0100ECD018EBE000] v1.0.1 - Easier Superguard
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Superguard instead Guard
+
+@enabled
+0072472C B4008052
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

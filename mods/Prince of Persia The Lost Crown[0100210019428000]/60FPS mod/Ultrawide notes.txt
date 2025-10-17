@@ -1,2 +1,0 @@
-If i adjust the HUD, the map wont work properly, so i made this workaround
-to fix the map while using ultrawide AR ingame, but HUD cant be fixed for now.

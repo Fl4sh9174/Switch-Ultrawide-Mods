@@ -1,0 +1,22 @@
+@nsobid-20503FA77FA416B7020211F078521144
+
+# Dragon Ball Z Kakarot and A New Power Awakens Set [010051C0134F8000] 1.5.0 - Unlocked FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Unlocked FPS
+
+@enabled
+07114112 1F2003D5
+03a9078c 488FA852
+03a90790 0001271E
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps
+
+@Fl4sh#9174
+https://github.com/Fl4sh9174
