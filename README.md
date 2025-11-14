@@ -7,7 +7,7 @@ Inside the .zip files, you'll find:
 
 To install the mods:
 
-On Yuzu/Sudachi/Citron:
+On Yuzu/Eden/Citron/Ryujinx/KenjiNX:
 
 Right-click on the game for which you want to install the mod.
 Open the mod data location.
